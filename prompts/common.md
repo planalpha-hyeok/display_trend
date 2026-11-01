@@ -25,6 +25,8 @@
 
 ## 3. 저장 (순서 지킬 것)
 1. Google Drive에 Markdown 원본을 Google 문서로 올린다 (`config/delivery.md` 규칙). 결과의 `viewUrl`을 기록한다.
+   - Google Drive 도구(`mcp__Google_Drive__create_file`)가 없거나 실패하면 이 단계를 건너뛰고 GitHub 저장은 계속한다.
+     게시판용 텍스트의 Google 문서 링크 자리에는 "Drive 저장 실패"라고 적고, 최종 응답 첫 줄에 "[실패] Drive 저장: 사유"를 적는다.
 2. 게시판용 텍스트를 `templates/plaintext.md` 규칙으로 만든다. 맨 아래에 Google 문서 링크와 GitHub 파일 링크
    (`https://github.com/planalpha-hyeok/display_trend/blob/ccr-8f07b9c9-ec53uj/<md 경로>`)를 넣는다.
 3. `mcp__github__push_files`로 Markdown 원본과 게시판용 텍스트를 한 커밋으로 올린다.
