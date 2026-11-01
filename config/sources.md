@@ -3,7 +3,7 @@
 검색 도구(WebSearch)는 최근 1~2주 기사가 잘 잡히지 않는다. 아래 순서로 수집한다.
 
 ## 방법 1 (주력): Google 뉴스 RSS
-`WebFetch`로 아래 주소를 연다. 각 항목에 매체명과 발행일(pubDate)이 나온다.
+`python3 tools/collect_gnews.py <시작일> <종료일 다음날> <결과.json>` 으로 아래 검색어 전체를 한 번에 수집한다(기간 지정은 after:/before:). 각 항목에 매체명과 발행일이 나온다. 개별 조회는 WebFetch 로 아래 주소를 연다.
 
 - 한국어: `https://news.google.com/rss/search?q=<검색어>+when:<기간>&hl=ko&gl=KR&ceid=KR:ko`
 - 영어: `https://news.google.com/rss/search?q=<검색어>+when:<기간>&hl=en-US&gl=US&ceid=US:en`
@@ -56,5 +56,11 @@
 
 접속이 안 되는 곳(확인일 기준): ravepubs.com(403), extron.com(차단), corporate.epson(403), news.logitech.com(목록 표시 안 됨), displaydaily.com(갱신 중단 상태).
 
-## 방법 3 (보조): WebSearch
+## 방법 3: 원문 주소 확보 (실을 기사마다 필수)
+- Google 뉴스 RSS 링크는 원문 주소가 아니다. 실을 기사는 원문 주소를 찾아 출처에 넣는다.
+- 한국어 기사: `python3 tools/naver_search.py "기사 제목 핵심 단어"` → 결과의 LINKS 중 해당 매체 주소를 고르고, 열어서 제목·날짜를 대조한다.
+- 영어 기사: WebSearch 로 원문을 찾는다.
+- 원문을 못 찾으면 Google 뉴스 링크를 쓴다(브라우저에서 원문으로 이동함). 출처 주소를 비워 두지 않는다.
+
+## 방법 4 (보조): WebSearch
 - 방법 1·2에서 찾은 소식의 상세 내용 확인, 배경 조사에 사용한다.
