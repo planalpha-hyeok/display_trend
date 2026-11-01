@@ -1,4 +1,4 @@
-/* 월간 요약 내용 데이터: 2026년 10월 (샘플 호). 구조 설명: docs/assets/README.md */
+/* 월간 요약 내용 데이터: 2026년 10월. 구조 설명: docs/assets/README.md */
 window.REPORT = {
   "type": "monthly",
   "issue": {
@@ -6,7 +6,7 @@ window.REPORT = {
     "titleOutline": "DISPLAY",
     "titleSolid": "TREND",
     "date": "OCTOBER 2026",
-    "vol": "MONTHLY VOL.00 (SAMPLE)",
+    "vol": "MONTHLY 2026.10",
     "period": "2026.10.01 – 10.31",
     "side": "GUIDE SAMJUNG DISPLAY TREND · MONTHLY 2026.10",
     "pageTitle": "월간 요약 2026년 10월 · Guide Samjung Display Trend"

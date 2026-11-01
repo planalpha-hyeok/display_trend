@@ -1,4 +1,4 @@
-/* 분기 전망 내용 데이터: 2026년 4분기 (샘플 호). 3분기(7~9월) 회고 + 4분기 전망. 구조 설명: docs/assets/README.md */
+/* 분기 전망 내용 데이터: 2026년 4분기. 3분기(7~9월) 회고 + 4분기 전망. 구조 설명: docs/assets/README.md */
 window.REPORT = {
   "type": "quarterly",
   "issue": {
@@ -6,7 +6,7 @@ window.REPORT = {
     "titleOutline": "DISPLAY",
     "titleSolid": "OUTLOOK",
     "date": "2026 Q4",
-    "vol": "QUARTERLY VOL.00 (SAMPLE)",
+    "vol": "QUARTERLY 2026 Q4",
     "period": "회고 2026.07–09 · 전망 2026.10–12",
     "side": "GUIDE SAMJUNG DISPLAY TREND · QUARTERLY 2026 Q4",
     "pageTitle": "분기 전망 2026년 4분기 · Guide Samjung Display Trend"
