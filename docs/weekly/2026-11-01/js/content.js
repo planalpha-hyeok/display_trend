@@ -1,0 +1,210 @@
+/* 리포트 내용 데이터. 매주 이 파일만 바꾸면 페이지가 새로 구성된다.
+   출처: Drive 1_주간 / 2026-11-01_주간 (시험 리포트) */
+window.REPORT = {
+  issue: {
+    brand: "GUIDE SAMJUNG",
+    titleOutline: "DISPLAY",
+    titleSolid: "TREND",
+    date: "NOV 01 2026",
+    vol: "WEEKLY VOL.00 (SAMPLE)",
+    period: "2026.10.25 – 10.31",
+    side: "GUIDE SAMJUNG DISPLAY TREND · WEEKLY VOL.00",
+    fullReport: "https://docs.google.com/document/d/1f7QlTAcxz4uUK_Ti4u6dHZ42gVssv4896REOmqNINkE/edit"
+  },
+
+  cover: {
+    photo: "img/cover.jpg",
+    alt: "해 질 녘 건물 외벽의 대형 LED 전광판",
+    credit: "Photo: John Cameron / Unsplash",
+    tag: "THIS WEEK",
+    caption: "이번 주 업계 소식 약 40건 중 핵심만 골랐습니다",
+    brief: [
+      ["조달청", "칠판 안전기준 설명회 개최. 납품 시 '공급자 적합성 확인서' 필수화 계획 (10/27)"],
+      ["실외 전광판", "울주군·나주시 등 공공 LED 전광판 도입 소식 이어져 (10/30)"],
+      ["시장", "Omdia, LED 디스플레이 매출 2030년까지 연 11.6% 성장 전망 (10/27)"]
+    ]
+  },
+
+  sections: [
+    {
+      id: "hot",
+      outline: "HOT",
+      solid: "ISSUE",
+      desc: "이번 주 가장 먼저 챙겨야 할 소식",
+      layout: "split",
+      photo: { src: "img/classroom.jpg", alt: "스마트 교실 내부", credit: "Photo: Haseeb Modi / Unsplash", caption: "칠판 납품, 서류가 하나 늘어납니다", tag: "조달" },
+      stories: [
+        {
+          label: "조달·공공",
+          title: "조달청, 어린이 칠판 안전기준 설명회 개최",
+          body: "칠판 다수공급자계약(MAS) 업체 대상 설명회입니다. 적용 대상은 유치원·초등학교 등에서 13세 이하 어린이가 쓰는 '칠판 및 게시판'이며, 납·카드뮴·프탈레이트 함유량을 제한합니다. 조달청은 적격성 평가 때 시험성적서와 함께 '공급자 적합성 확인서'를 받을 계획입니다. 12/3 「어린이제품 안전 특별법」 개정 시행을 앞둔 안내입니다.",
+          why: "보도자료와 관련 기사에는 '전자칠판'이 대상이라는 언급이 없습니다. 전자칠판 포함 여부는 조달청 보건안전구매과(042-724-7214)에 확인이 필요합니다.",
+          src: [["조달청 보도자료 (10/27)", "https://www.pps.go.kr/kor/bbs/view.do?key=00634&bbsSn=2610270008"], ["조달경제신문 (10/27)", "https://www.jodaleconomy.com/news/articleView.html?idxno=3468"]]
+        },
+        {
+          label: "옥외 매체",
+          title: "KT나스미디어, 강남역에 초고해상도 옥외광고 매체 '더스퀘어 강남' 론칭",
+          body: "강남역 일대에 대형 LED 옥외광고 매체를 구축해 출시했습니다. 화면 크기·픽셀피치 등 세부 사양은 확인하지 못했습니다.",
+          src: [["지디넷코리아 (10/30)", null]]
+        }
+      ]
+    },
+    {
+      id: "led",
+      outline: "LED",
+      solid: "SIGNAL",
+      desc: "실내 파인피치 · 실외 전광판 · 컨트롤러 (Novastar, Colorlight)",
+      layout: "grid",
+      photo: { src: "img/led-dots.jpg", alt: "LED 소자를 가까이서 본 모습", credit: "Photo: Bernard Hermant / Unsplash", caption: "작은 점 하나가 화소 하나", tag: "LED" },
+      stories: [
+        {
+          label: "파인피치 · 실내",
+          title: "dvLED, 모듈 단위 교체로 총소유비용(TCO)을 낮춘다",
+          body: "AVNetwork 제조사 인터뷰 기사입니다. 패널을 이어 붙이는 직시형 LED(dvLED)는 고장 난 모듈만 교체할 수 있어 서비스가 쉽고, 구매자들이 해상도보다 사용 기간 전체 비용을 따지는 흐름을 소개했습니다.",
+          why: "실내 LED 제안 시 모듈 교체 편의성과 운영 비용을 함께 설명하는 근거로 쓸 수 있습니다.",
+          src: [["AVNetwork (10/29)", "https://www.avnetwork.com/products/displays/spotlight-on-display-technologies-2026"]]
+        },
+        {
+          label: "실외 · 공공",
+          title: "지자체 공공 LED 전광판 도입 이어져",
+          body: "울주군은 버스승강장 외부 LED 전광판에 '승객 대기 중'을 표시하는 안심승차벨을 도입합니다. 전력거래소와 나주시는 혁신도시 첫 '공공디지털 전광판'을 구축했습니다.",
+          why: "지자체 소규모 전광판 수요가 교통·에너지 정보 같은 공공 서비스와 연계해 나오고 있습니다.",
+          src: [["연합뉴스 (10/30)", null], ["디딤코리아 (10/30)", null]]
+        },
+        {
+          label: "시장 전망",
+          title: "Omdia: LED 디스플레이 매출, 2030년까지 연 11.6% 성장",
+          body: "시장조사기관 Omdia의 전망을 보도한 기사입니다. 세부 수치는 원문에서 확인하지 못했습니다.",
+          est: true,
+          src: [["Sixteen:Nine (10/27)", null]]
+        },
+        {
+          label: "Novastar",
+          title: "SIA Interactive, 사이니지 소프트웨어 'Dex Suite'를 Novastar에 도입",
+          body: "Novastar 기반 디스플레이에서 Dex Suite를 운영할 수 있게 된다는 소식입니다. 호환 범위는 확인하지 못했습니다.",
+          src: [["Sixteen:Nine (10/30)", null]]
+        },
+        {
+          label: "Colorlight",
+          title: "Colorlight Cloud Tech, 약 1억 위안 규모 자사주 매입",
+          body: "1,576,800주 매입을 발표했습니다. 같은 날 1~9월 실적도 나왔지만 수치는 확인하지 못했습니다.",
+          src: [["MarketScreener (10/28)", null]]
+        },
+        {
+          label: "현장 이슈",
+          title: "말레이시아 Kluang, 해킹 의심으로 LED 전광판 송출 중단",
+          body: "옥외 LED 화면에 부적절한 영상이 나온 뒤 지방의회가 화면을 껐습니다.",
+          why: "원격 관리 전광판은 관리 계정 비밀번호 변경과 접속 제한을 점검하세요.",
+          src: [["Yahoo (10/30)", null]]
+        }
+      ]
+    },
+    {
+      id: "projector",
+      outline: "EPSON",
+      solid: "BEAM",
+      desc: "Epson 프로젝터 · 프린터 소식",
+      layout: "split",
+      photo: { src: "img/projector.jpg", alt: "어두운 방에서 빛을 내는 프로젝터", credit: "Photo: Alex Litvin / Unsplash", caption: "체험형 시설로 넓어지는 고광량 프로젝션", tag: "EPSON" },
+      stories: [
+        {
+          label: "신규 전시",
+          title: "Epson, IAAPA Expo 첫 참가 (11/17~20, 올랜도)",
+          body: "20,000루멘 4K 레이저 프로젝터 EB-PQ2220B로 만든 인터랙티브 몰입 데모를 선보입니다. POS 영수증·라벨 프린터도 함께 전시합니다.",
+          why: "놀이·체험 시설용 고광량 프로젝션 수요를 겨냥한 행보입니다.",
+          src: [["Epson 뉴스룸 (10/29)", "https://news.epson.com/news/IAAPA-expo-4k-projectors-pos"]]
+        },
+        {
+          label: "교육",
+          title: "Epson, SIMO Education 2026에서 협업형 프로젝션 소개",
+          body: "교실용 협업 프로젝션과 몰입형 학습을 주제로 참가한다고 발표했습니다.",
+          src: [["Digital AV Magazine (10/27)", null]]
+        }
+      ]
+    },
+    {
+      id: "class",
+      outline: "CLASS",
+      solid: "& MEET",
+      desc: "전자칠판 · 화상회의 (Logitech)",
+      layout: "split",
+      photo: { src: "img/meeting.jpg", alt: "회의실 테이블과 의자", credit: "Photo: Arlington Research / Unsplash", caption: "회의실 장비 수요는 이어지고 있습니다", tag: "MEETING" },
+      stories: [
+        {
+          label: "전자칠판",
+          title: "LG전자, 폴란드 학교에 전자칠판 6,000대 공급 계획",
+          body: "B2B 확대 전략의 하나로 보도됐습니다. 공급 시기와 계약 형태는 확인하지 못했습니다.",
+          src: [["한국신용신문 (10/30)", null]]
+        },
+        {
+          label: "Logitech",
+          title: "Logitech 분기 실적 예상 상회, 주가는 하락",
+          body: "게이밍·화상회의 제품 판매가 늘어 이익이 전망치를 웃돌았습니다. 분기 매출은 12.2억 달러로 전해졌지만, 마진 우려로 시가총액이 약 20억 달러 줄었습니다.",
+          src: [["Reuters (10/27)", null], ["AOL.co.uk (10/28)", null]]
+        }
+      ]
+    },
+    {
+      id: "art",
+      outline: "MEDIA",
+      solid: "ART TECH",
+      desc: "미디어아트를 구현하는 기술과 장비",
+      layout: "split",
+      photo: { src: "img/mapping.jpg", alt: "건물 외벽에 투사된 프로젝션 매핑", credit: "Photo: Maximalfocus / Unsplash", caption: "건물 외벽이 스크린이 됩니다", tag: "MAPPING" },
+      stories: [
+        {
+          label: "버추얼 프로덕션",
+          title: "독일 VG Media Studio, LED 월 촬영 스튜디오 구축",
+          body: "LG LED 월에 Brompton Tessera SX40 프로세서 2대, 천장용 S8, Mo-Sys 카메라 트래킹을 연동했습니다. 60fps 기준이며 120fps까지 확장할 수 있습니다.",
+          why: "LED 월 세팅 시 프로세서 구성과 트래킹 연동을 함께 설계한 사례입니다.",
+          src: [["AVNetwork (10/29)", "https://www.avnetwork.com/installations/broadcast-production/brompton-led-processing-brings-hollywood-grade-virtual-production-to-vg-media-studio"]]
+        },
+        {
+          label: "멀티 프로젝터",
+          title: "PIXERA, 체코 디지털 아트 갤러리에서 프로젝터 19대 동기화",
+          body: "미디어서버 한 대로 프로젝터 19대의 영상을 맞춰 운영한 사례입니다. 국내에서는 담양 죽녹원·창원 마산박물관 미디어파사드 조성 소식이 있었습니다.",
+          src: [["InPark Magazine (10/28)", null], ["뉴스1·폴리뉴스 (10/28)", null]]
+        }
+      ]
+    },
+    {
+      id: "global",
+      outline: "GLOBAL",
+      solid: "WATCH",
+      desc: "국제 동향 · 공급망",
+      layout: "grid",
+      photo: { src: "img/billboards.jpg", alt: "밤거리의 대형 전광판들", credit: "Photo: Robert Likovszki / Unsplash", caption: "패널 공급 구조가 바뀌고 있습니다", tag: "GLOBAL" },
+      stories: [
+        {
+          label: "공급망",
+          title: "삼성전자, 삼성디스플레이 보유 TCL CSOT 지분 10.16% 인수",
+          body: "약 1조 2,718억 원 규모, 10/30 공시. TV용 LCD 패널 확보 차원이라는 해석이 나왔습니다(매체 해석).",
+          why: "LCD 패널 공급 구조 변화는 대형 상업용 디스플레이 공급에 간접 영향을 줄 수 있습니다.",
+          est: true,
+          src: [["전자신문 (10/30)", "https://www.etnews.com/20261030000343"]]
+        },
+        {
+          label: "장기 기술 · 마이크로 LED",
+          title: "AUO, 투명 마이크로 LED를 Peugeot 차량 콕핏에 적용",
+          body: "투명 마이크로 LED의 차량용 적용 사례입니다. 회사 주력 제품(P1~P2 파인피치)과 직접 관련은 적지만 기술 흐름 참고용으로 싣습니다.",
+          src: [["LEDinside (10/27)", "https://www.ledinside.com/node/view/36471"]]
+        }
+      ]
+    }
+  ],
+
+  notes: [
+    ["조달 납품", "12/3 시행 칠판·게시판 안전기준 대비. 전자칠판 포함 여부는 미확인 → 조달청 확인 후 제조사 시험성적서 준비"],
+    ["원격 전광판", "관리 계정 비밀번호 변경, 외부 접속 제한 점검 (일반 권고)"],
+    ["LED 월 세팅", "프로세서 + 데이터 분배 + 카메라 트래킹을 함께 설계한 사례 참고 (VG Media Studio)"]
+  ],
+
+  terms: [
+    ["dvLED", "LED 모듈을 이어 붙여 만드는 직시형 LED 화면"],
+    ["마이크로 LED", "아주 작은 LED 칩 하나가 화소 하나가 되는 기술"],
+    ["MAS", "조달청 다수공급자계약. 수요기관이 여러 업체 중 골라 구매"],
+    ["프로세서", "영상 신호를 LED 패널용 신호로 바꿔 보내는 장비"],
+    ["프로젝션 매핑", "건물·사물 표면 모양에 맞춰 영상을 투사하는 기술"],
+    ["버추얼 프로덕션", "대형 LED 벽에 배경을 띄우고 촬영하는 방식"]
+  ]
+};
