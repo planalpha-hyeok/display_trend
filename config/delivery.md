@@ -3,7 +3,7 @@
 저장소는 Google Drive만 사용한다. (예약 작업 세션에서는 GitHub에 접근할 수 없음)
 
 ## Google Drive 폴더
-- 상위 폴더: `디스플레이 동향 리포트` (ID `17_h0ysXBuyPxzaoUS3eCOx1bzTP_p8ag`)
+- 상위 폴더: `내 드라이브/가이드삼정/project/display_trend` (ID `17_h0ysXBuyPxzaoUS3eCOx1bzTP_p8ag`)
 
 | 용도 | 폴더 이름 | 폴더 ID |
 |---|---|---|

@@ -12,7 +12,7 @@
 
 ## 전달 방법
 
-- Google Drive: `디스플레이 동향 리포트` 폴더 (리포트 Google 문서 + 게시판용 .txt)
+- Google Drive: `내 드라이브/가이드삼정/project/display_trend` 폴더 (리포트 Google 문서 + 게시판용 .txt)
 - 알림: 완료 시 휴대폰 푸시 + 이메일 (Claude 계정 이메일)
 
 예약 작업 세션은 GitHub 저장소에 접근할 수 없어서, 실제 설정은 Drive `0_설정` 폴더의 문서를 사용합니다.
