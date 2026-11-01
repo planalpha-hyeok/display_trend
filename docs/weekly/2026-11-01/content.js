@@ -76,7 +76,7 @@ window.REPORT = {
               "src": [
                 [
                   "지디넷코리아 (10/30)",
-                  null
+                  "https://zdnet.co.kr/view/?no=20261030101656"
                 ]
               ]
             }
@@ -120,12 +120,12 @@ window.REPORT = {
               "why": "지자체 소규모 전광판 수요가 교통·에너지 정보 같은 공공 서비스와 연계해 나오고 있습니다.",
               "src": [
                 [
-                  "연합뉴스 (10/30)",
-                  null
+                  "매일경제 (10/30)",
+                  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YUWlsaE1zaEQzSkdPQ0gtakRvMU9ubEp0blVwLUJEUUZnejNoNDZRU1BKVWJOY3Q5Mm1BNXd3d0t6aGVDVzJYNDlraXAzXzV0blE?oc=5"
                 ],
                 [
                   "디딤코리아 (10/30)",
-                  null
+                  "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBOXVhSWRJYVlCZldJM05IcjRScFRkaS12NmxxSzZudUprdXJ5VzhZLU1naEpIQzZuSGc0d20tMzlZUWozZzZXak9TTWREMUU?oc=5"
                 ]
               ]
             },
@@ -137,7 +137,7 @@ window.REPORT = {
               "src": [
                 [
                   "Sixteen:Nine (10/27)",
-                  null
+                  "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTGczZkNHYTFSQWYtYTNQSExzUnZwLTBFdEJ4M0hIUzM0dWtjWG1sdE5XelNpbUxVOXJVSzdDc19vSDBXTHNUYjA0SDR2dUFacHM2MVhnWEg3TGFxUEVHSzJaeHJNcWlHSmE0SktYVXk0dlhYcHpBNjQ2alNjYkx6RTJkMVlXS25LQmV3S1JESHdyZ2w4dWtVWkRB?oc=5"
                 ]
               ]
             },
@@ -148,7 +148,7 @@ window.REPORT = {
               "src": [
                 [
                   "Sixteen:Nine (10/30)",
-                  null
+                  "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOTNTU3c2WXU1UThaemNqSmRmYVZidVRuaE5WRUlid01aMkllTTU4ZWxiSzNITGRUOVFFbHNaSG1yLU5NU1RUYzB2TW1TMzBaSjRzSGpEQ3JDMnBWZDY4RFlhbDB2M1FSOTQ1V25IeHFYLTljUVF5ZzNDenAzNVVEcjJsTGR5eEVGRWl4UGFYSXlhZUl6eXd4YllONWdVVXBHa2ttYlRR?oc=5"
                 ]
               ]
             },
@@ -159,7 +159,7 @@ window.REPORT = {
               "src": [
                 [
                   "MarketScreener (10/28)",
-                  null
+                  "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOekRpSnFGbzBrSUtMcldDZVUtdUVBTjkzR05NSnRTM2lhamNkR1gyZFdTaGVHQjh0TE1LU25seGNJM2RYUFlfcUhaTTN1UXdZVGZLNUlmZEdYX0l2T0J0d040b1hvN1pfMnNWRHE4X3ZFWXdnbmY2RzlvYzU2dUlvM2c2T183dTdPS3EyM0o5TE84Sk12MlUzVl9BdWhnVmxaRUJwWG5ZUWNBMGxUT1FoRkhHTzM0M3cwRUp6VjJlSkJGdWRLcHk1YVFZb21saHh3WUdTR3lZRURUNWc3T01LTQ?oc=5"
                 ]
               ]
             },
@@ -171,7 +171,7 @@ window.REPORT = {
               "src": [
                 [
                   "Yahoo (10/30)",
-                  null
+                  "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLU5QNmxBTkpFY0ZGV1RaaVlqNlRnTl95VXczNjdOMmcwN2tCemJCeXlGMlotczZoWnpqQkRJNzhlNlh1MERDOGdYd1Y3RDZieF9UZldOOGJKYWIzZ0NXbXp0R25LdENMcGV0dnhtQUxqT1JHcy1COGN2Nm9vWUhkTHpB?oc=5"
                 ]
               ]
             }
@@ -215,7 +215,7 @@ window.REPORT = {
               "src": [
                 [
                   "Digital AV Magazine (10/27)",
-                  null
+                  "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb05DZHlBVG5jdjdJOEtpQWNGODhwX0FEdEM3OW5SOXc2YnVoSjU2SFJKajVQOXZmM1d0TFpUeDdxUlAtTUllQ3dCaUJvcTRza0kxajZlTklZVmNtNkxqTDdMaUxiTlJQU0ZZLXRxTEdUbEl6UmRGTW03THRrTE1xTDFFRGc2LW5NMWs4VnJrUU5Ramw5TGlvVERPbGN0ZFc2UkFNYjZlVkFYa0VwV2lKVXB0RFN2UQ?oc=5"
                 ]
               ]
             }
@@ -247,7 +247,7 @@ window.REPORT = {
               "src": [
                 [
                   "한국신용신문 (10/30)",
-                  null
+                  "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VZGhCZGZ2VFI5c3Vfby01U01reDh5TE1IYnhiOGZnd1NLdFhqRU9WNGNIYmI4ajhDbTBZTlZRZ1FYc1J6SjgtMkF0X29KTDRLTjUxcW9JcVdrWHRDSVBaSG9nRlFVZWYtUTRZ?oc=5"
                 ]
               ]
             },
@@ -258,11 +258,11 @@ window.REPORT = {
               "src": [
                 [
                   "Reuters (10/27)",
-                  null
+                  "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcThaVXpfV0FuUW1xWm9FNjNxcjFrUE5iWjB5UVNaSHRfNjdkX0lVZkN2eHpJODlZaGphX2FORlY3YnJ6aWlNVDRnTE4xX1c0NkxFdlQ1dGxIVnE4Y1BncFBOYlBnalVsemdmU0UtYUxTNzZlTi1rdHNVLVcyZk9xNDJ1NmFKZU5ldEo5TzdCNWdOOEQ3eGhCUkFSYmJ2SWt2dFpNaXpUd1RlcXdGeUlISXJqNTdZdw?oc=5"
                 ],
                 [
-                  "AOL.co.uk (10/28)",
-                  null
+                  "The Star·Reuters (10/28)",
+                  "https://www.thestar.com.my/tech/tech-news/2026/10/28/logitech-sheds-2-billion-in-market-cap-as-margin-concerns-overshadow-profit-beat"
                 ]
               ]
             }
@@ -306,11 +306,15 @@ window.REPORT = {
               "src": [
                 [
                   "InPark Magazine (10/28)",
-                  null
+                  "https://news.google.com/rss/articles/CBMidEFVX3lxTE10Z0tEd1oyRGpQNG1URTZkUnBPcC16WlhoWXBJRS15UjFoRHNjcGd5Q19WTTN1UEd6elhwVGdKTGlqbFNYMU9QVEVFdmMwVEVqWHo1bmVFMm9wbTRpbUNBWTk5MUs5VE1yQ0JoNEF5Z1RNRnB50gF6QVVfeXFMT1FybTl0X09lbGpVTElPS0pnUmMyOUtFWXgwWWd0QTdFdTJXdVkxUWJ3bGx6YkhDcHJYZzFEOEtlb2FEYUIxWHVzNC1rR1pLUkZSM0tYWk8wdjVMdHpCM2EySndGY1FZaU43bm85aTJYQUdCbENoSTRFc2c?oc=5"
                 ],
                 [
-                  "뉴스1·폴리뉴스 (10/28)",
-                  null
+                  "뉴스1 (10/28)",
+                  "https://www.news1.kr/local/gwangju-jeonnam/6335001"
+                ],
+                [
+                  "폴리뉴스 (10/28)",
+                  "https://www.polinews.co.kr/news/articleView.html?idxno=616092"
                 ]
               ]
             }
