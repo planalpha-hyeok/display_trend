@@ -1,0 +1,71 @@
+/* 월간·분기용 블록: 표, 이슈 Top N, 전망 카드, 영향·확신 배지 */
+
+.cover-side { display: grid; gap: var(--s-4); align-content: start; min-width: 0; }
+.contents li a { display: contents; }
+.grid.one { grid-template-columns: 1fr; }
+
+/* 배지: 영향 정도 / 확신 정도 */
+.lv {
+  display: inline-block;
+  font-size: var(--t-xs);
+  font-weight: 700;
+  padding: 1px 8px;
+  border: 1.5px solid var(--ink);
+  white-space: nowrap;
+}
+.lv-high { background: var(--ink); color: var(--sheet); }
+.lv-mid  { background: var(--tag); color: var(--ink); }
+.lv-low  { background: var(--sheet); color: var(--ink); }
+
+/* 표 */
+.tbl-wrap { display: grid; gap: var(--s-2); min-width: 0; }
+.tbl-title { margin: 0; font-size: var(--t-md); font-weight: 900; }
+.tbl-scroll { overflow-x: auto; border: 2px solid var(--ink); }
+.tbl { width: 100%; border-collapse: collapse; font-size: var(--t-sm); min-width: 560px; }
+.tbl th {
+  background: var(--ink);
+  color: var(--sheet);
+  text-align: left;
+  font-weight: 700;
+  padding: 6px var(--s-3);
+  white-space: nowrap;
+}
+.tbl td { padding: 8px var(--s-3); border-top: 1px dashed var(--rule); vertical-align: top; }
+.tbl tbody tr:nth-child(even) td { background: #f6f6f4; }
+.tbl-note { margin: 0; font-size: 0.7rem; color: var(--ink-2); }
+
+/* 이슈 Top N */
+.issues { list-style: none; margin: 0; padding: 0; display: grid; gap: 0; border: 2px solid var(--ink); }
+.issue { display: grid; grid-template-columns: 64px minmax(0, 1fr); border-top: 1px dashed var(--rule); }
+.issue:first-child { border-top: 0; }
+.issue-no {
+  font-family: var(--f-display);
+  font-size: 1.8rem;
+  line-height: 1;
+  padding: var(--s-4) 0 0 var(--s-3);
+  color: transparent;
+  -webkit-text-stroke: 1.4px var(--ink);
+}
+.issue-body { padding: var(--s-4) var(--s-4) var(--s-4) 0; display: grid; gap: var(--s-2); min-width: 0; }
+.issue-body h4 { margin: 0; font-size: var(--t-lg); font-weight: 900; line-height: 1.4; text-wrap: balance; }
+.issue-body dl { margin: 0; display: grid; grid-template-columns: 110px minmax(0, 1fr); gap: 4px var(--s-3); font-size: var(--t-sm); }
+.issue-body dt { font-weight: 700; }
+.issue-body dd { margin: 0; color: var(--ink-2); }
+.issue-body .src { font-size: 0.7rem; color: var(--ink-2); margin: 0; }
+
+/* 전망 카드 */
+.outlook { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); border: 1px dashed var(--rule); }
+.ol-card { border: 1px dashed var(--rule); margin: -1px 0 0 -1px; padding: var(--s-4); display: grid; gap: var(--s-2); align-content: start; }
+.ol-head { display: flex; justify-content: space-between; align-items: center; gap: var(--s-2); }
+.ol-head h4 { margin: 0; font-size: var(--t-md); font-weight: 900; }
+.ol-card p { margin: 0; font-size: var(--t-sm); }
+.ol-now { color: var(--ink-2); }
+.ol-next { font-weight: 500; border-left: 3px solid var(--ink); padding-left: var(--s-2); }
+.ol-card .src { font-size: 0.7rem; color: var(--ink-2); }
+
+@media (max-width: 720px) {
+  .outlook { grid-template-columns: 1fr; }
+  .issue { grid-template-columns: 44px minmax(0, 1fr); }
+  .issue-no { font-size: 1.3rem; padding-left: var(--s-2); }
+  .issue-body dl { grid-template-columns: 1fr; }
+}

@@ -1,0 +1,19 @@
+/* 첫 화면(발행 목록) */
+.hub { display: grid; gap: var(--s-5); }
+.hub-latest { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: var(--s-4); }
+.hub-card {
+  display: grid; gap: var(--s-2); align-content: start;
+  border: 2px solid var(--ink); padding: var(--s-4); text-decoration: none; color: var(--ink);
+}
+.hub-card b { font-size: var(--t-lg); font-weight: 900; }
+.hub-card:hover { background: var(--tag); }
+.hub-card.empty { color: var(--ink-2); border-style: dashed; }
+.hub-kind {
+  justify-self: start; background: var(--ink); color: var(--sheet);
+  font-family: var(--f-label); font-weight: 800; letter-spacing: 0.1em; font-size: var(--t-xs); padding: 2px 8px;
+}
+.hub-title { font-size: var(--t-sm); color: var(--ink-2); }
+.hub-archive h3 { margin: 0 0 var(--s-2); font-family: var(--f-label); letter-spacing: 0.12em; font-size: var(--t-sm); }
+.hub-archive ul { list-style: none; margin: 0; padding: 0; border-top: 2px solid var(--ink); }
+.hub-archive li { display: flex; gap: var(--s-3); align-items: center; padding: var(--s-2) 0; border-bottom: 1px dashed var(--rule); }
+@media (max-width: 640px) { .hub-latest { grid-template-columns: 1fr; } }
