@@ -15,7 +15,9 @@
 ### 한국어 검색어
 | 제품군 | 검색어 |
 |---|---|
-| LED 디스플레이 | `LED전광판`, `LED+디스플레이+설치`, `미디어파사드`, `마이크로LED` |
+| LED 파인피치 (주력) | `파인피치+LED`, `COB+LED+디스플레이`, `LED+디스플레이+설치`, `LED+회의실`, `LED+관제실`, `P1.2+LED`, `P1.5+LED` |
+| LED 실외·안내 | `LED전광판`, `옥외+전광판`, `안내전광판`, `미디어파사드` |
+| LED 장기 기술 | `마이크로LED` (비중 낮게) |
 | LED 컨트롤러 | `노바스타`, `컬러라이트+LED` |
 | 프로젝터 | `엡손+프로젝터`, `한국엡손` |
 | 영상 주변기기 | `익스트론`, `무선+프레젠테이션+장비` |
@@ -29,7 +31,9 @@
 ### 영어 검색어
 | 제품군 | 검색어 |
 |---|---|
-| LED 디스플레이 | `dvLED`, `MicroLED+display`, `COB+LED+display`, `LED+video+wall` |
+| LED 파인피치 (주력) | `fine+pitch+LED`, `small+pitch+LED`, `COB+LED+display`, `dvLED`, `LED+video+wall` |
+| LED 실외 | `outdoor+LED+display`, `digital+billboard` |
+| LED 장기 기술 | `MicroLED+display` (비중 낮게) |
 | LED 컨트롤러 | `Novastar+OR+Colorlight` |
 | 프로젝터 | `Epson+projector` |
 | 영상 주변기기 | `Extron` |
