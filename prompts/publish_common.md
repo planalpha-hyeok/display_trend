@@ -43,7 +43,9 @@
    | meeting.jpg | 회의실 | Arlington Research |
    | mapping.jpg | 건물 외벽 프로젝션 매핑 | Maximalfocus |
    Unsplash 도구가 있으면 새 사진을 받아 `docs/assets/img/` 에 추가해도 된다(촬영자 표기 필수, download_asset 로 다운로드 기록).
-5. `docs/issues.js` 의 목록 맨 앞에 새 호를 한 줄 추가한다.
+5. 본문에 싣지 않았지만 관련 있는 기사(10~30건)는 `extraSources` 에 `["매체 (날짜) 기사 제목", 주소]` 로 넣는다. 호 맨 끝 ALL SOURCES 쪽에 자동으로 나온다.
+6. 마지막 섹션의 `closing` 은 `{"kind":"closing","text":"지난 호 전체 목록 보기","url":"../../"}`. Drive 등 비공개 주소는 쓰지 않는다.
+7. `docs/issues.js` 의 목록 맨 앞에 새 호를 한 줄 추가한다.
 
 ## 3. 점검
 1. `node --check docs/<종류>/<호>/content.js`

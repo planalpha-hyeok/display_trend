@@ -62,7 +62,43 @@
     book.append(p);
   }
 
+  /* 출처 전체 목록: 본문의 모든 src·basis·표 링크 + R.extraSources(본문에 싣지 않은 참고 기사) */
+  function collectSources() {
+    const seen = new Set(), list = [];
+    const add = (name, url) => { if (!url || seen.has(url)) return; seen.add(url); list.push([name, url]); };
+    (function walk(o) {
+      if (Array.isArray(o)) {
+        if (o.length === 2 && typeof o[0] === "string" && typeof o[1] === "string" && /^https?:/.test(o[1])) return add(o[0], o[1]);
+        return o.forEach(walk);
+      }
+      if (o && typeof o === "object") {
+        if (typeof o.text === "string" && typeof o.url === "string" && /^https?:/.test(o.url) && o.kind !== "closing") add(o.text, o.url);
+        Object.keys(o).forEach((k) => { if (k !== "extraSources") walk(o[k]); });
+      }
+    })(R.sections);
+    return { used: list, extra: (R.extraSources || []).filter(([, u]) => u && !seen.has(u)) };
+  }
+
+  function renderSources(no) {
+    const { used, extra } = collectSources();
+    if (!used.length && !extra.length) return;
+    const p = page("sources", R.issue.side);
+    p.append(sectionHead({ outline: "ALL", solid: "SOURCES", desc: "이 호에 쓰인 출처 전체" + (extra.length ? " · 참고 기사" : "") }, no, MAG));
+    const mk = (title, arr) => {
+      const box = el("div", "src-list");
+      box.append(el("h4", null, title + " (" + arr.length + ")"));
+      const ol = el("ol");
+      arr.forEach(([name, url]) => { const li = el("li"); li.append(window.DT.link(name, url)); ol.append(li); });
+      box.append(ol);
+      return box;
+    };
+    if (used.length) p.append(mk("본문 출처", used));
+    if (extra.length) p.append(mk("참고 기사 (본문에 싣지 않음)", extra));
+    book.append(p);
+  }
+
   document.title = R.issue.pageTitle || document.title;
   renderCover();
   R.sections.forEach((s, i) => renderSection(s, i + 1));
+  renderSources(R.sections.length + 1);
 })();

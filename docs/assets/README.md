@@ -29,7 +29,8 @@ window.REPORT = {
   },
   sections: [
     { id, outline, solid, desc, blocks: [ 블록, ... ] }
-  ]
+  ],
+  extraSources: [["매체 (날짜) 기사 제목", "주소"], ...]   // (선택) 본문에 싣지 않은 참고 기사
 };
 ```
 
@@ -50,3 +51,7 @@ window.REPORT = {
 - 주간: 제품군별 `feature` 섹션들 + FIELD NOTE(`notes`, `terms`, `closing`)
 - 월간: TOP FIVE(`issues`) → BY PRODUCT(`table`) → KOREA / GLOBAL MARKET(`feature`) → NEW ARRIVALS(`table`) → NEXT MONTH(`table`, `closing`)
 - 분기: 회고(`issues`) → 전망(`outlook`) → RISK & CHANCE(`table`) → CALENDAR(`table`, `closing`)
+
+## 출처 전체 목록 (자동)
+각 호 맨 끝에 ALL SOURCES 쪽이 자동으로 붙는다. 본문의 모든 출처 링크를 모으고, `extraSources` 가 있으면 '참고 기사'로 따로 보여준다.
+`closing` 블록의 링크는 Drive 같은 외부 비공개 주소를 쓰지 않는다. 지난 호 목록은 `"url": "../../"`.

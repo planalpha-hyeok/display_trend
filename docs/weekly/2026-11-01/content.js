@@ -421,8 +421,8 @@ window.REPORT = {
         },
         {
           "kind": "closing",
-          "text": "전체 기사 목록과 출처 40여 건은 상세 리포트(Google 문서)에서 확인",
-          "url": "https://docs.google.com/document/d/1f7QlTAcxz4uUK_Ti4u6dHZ42gVssv4896REOmqNINkE/edit"
+          "text": "지난 호 전체 목록 보기",
+          "url": "../../"
         }
       ]
     }

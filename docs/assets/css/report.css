@@ -69,3 +69,10 @@
   .issue-no { font-size: 1.3rem; padding-left: var(--s-2); }
   .issue-body dl { grid-template-columns: 1fr; }
 }
+
+/* 출처 전체 목록 */
+.src-list h4 { margin: 0 0 var(--s-2); font-size: var(--t-md); font-weight: 900; }
+.src-list ol { margin: 0; padding-left: 22px; columns: 2; column-gap: var(--s-6); font-size: var(--t-xs); color: var(--ink-2); }
+.src-list li { break-inside: avoid; padding: 2px 0; }
+.src-list a { word-break: break-word; }
+@media (max-width: 720px) { .src-list ol { columns: 1; } }
