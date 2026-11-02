@@ -76,3 +76,25 @@
 .src-list li { break-inside: avoid; padding: 2px 0; }
 .src-list a { word-break: break-word; }
 @media (max-width: 720px) { .src-list ol { columns: 1; } }
+
+/* 좁은 화면: 표의 한 줄을 카드로 세로 배치 (가로 스크롤 없음) */
+@media (max-width: 720px) {
+  .tbl-scroll { overflow-x: visible; border: 0; }
+  .tbl { min-width: 0; }
+  .tbl thead { display: none; }
+  .tbl, .tbl tbody, .tbl tr, .tbl td { display: block; width: 100%; }
+  .tbl tr { border: 2px solid var(--ink); margin-bottom: var(--s-3); }
+  .tbl tbody tr:nth-child(even) td { background: none; }
+  .tbl td {
+    display: grid;
+    grid-template-columns: 84px minmax(0, 1fr);
+    gap: var(--s-2);
+    border-top: 1px dashed var(--rule);
+    padding: 6px var(--s-3);
+  }
+  .tbl tbody tr td:first-child { border-top: 0; background: var(--ink); color: var(--sheet); font-weight: 700; }
+  .tbl td .lv { justify-self: start; }
+  .tbl td:first-child .lv { border-color: var(--sheet); }
+  .tbl td::before { content: attr(data-label); font-weight: 700; font-size: var(--t-xs); color: var(--ink-2); }
+  .tbl td:first-child::before { color: var(--tint); }
+}

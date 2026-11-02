@@ -41,8 +41,9 @@
     const tbody = el("tbody");
     b.rows.forEach((r) => {
       const tr = el("tr");
-      r.forEach((cell) => {
+      r.forEach((cell, ci) => {
         const td = el("td");
+        td.dataset.label = b.columns[ci] || "";
         if (cell && typeof cell === "object" && cell.level) {
           td.append(el("span", "lv lv-" + cell.level, cell.text));
         } else if (cell && typeof cell === "object" && cell.url !== undefined) {
