@@ -1,7 +1,8 @@
-/* 발행된 호 목록. 새 호를 올릴 때 맨 앞에 한 줄 추가한다. */
+/* 발행된 호 목록. 새 호를 올릴 때 맨 앞에 한 줄 추가한다.
+   date: 실제 발행일(한국시간, YYYY-MM-DD). 플로우 알림(tools/flow_notify.js)이 이 값으로 대상을 고른다. */
 window.ISSUES = [
-  { type: "weekly", id: "2026-11-02", title: "10/26 – 11/01 주간", path: "weekly/2026-11-02/" },
-  { type: "quarterly", id: "2026-Q4", title: "2026년 4분기 전망", path: "quarterly/2026-Q4/" },
-  { type: "monthly", id: "2026-10", title: "2026년 10월 요약", path: "monthly/2026-10/" },
-  { type: "weekly", id: "2026-11-01", title: "10/25 – 10/31 주간", path: "weekly/2026-11-01/", sample: true }
+  { type: "weekly", id: "2026-11-02", title: "10/26 – 11/01 주간", path: "weekly/2026-11-02/", date: "2026-11-02" },
+  { type: "quarterly", id: "2026-Q4", title: "2026년 4분기 전망", path: "quarterly/2026-Q4/", date: "2026-11-02" },
+  { type: "monthly", id: "2026-10", title: "2026년 10월 요약", path: "monthly/2026-10/", date: "2026-11-02" },
+  { type: "weekly", id: "2026-11-01", title: "10/25 – 10/31 주간", path: "weekly/2026-11-01/", sample: true, date: "2026-11-02" }
 ];

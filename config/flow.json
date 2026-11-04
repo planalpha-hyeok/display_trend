@@ -1,0 +1,7 @@
+{
+  "_설명": "플로우 채팅 알림 설정. API 키는 여기에 쓰지 않는다(환경의 Network secrets 또는 환경변수 FLOW_API_KEY).",
+  "mode": "user",
+  "roomId": "",
+  "registerId": "",
+  "siteUrl": "https://planalpha-hyeok.github.io/display_trend/"
+}
