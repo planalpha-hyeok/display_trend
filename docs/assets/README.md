@@ -45,7 +45,7 @@ window.REPORT = {
 | `terms` | 용어 풀이 | `rows: [["용어","설명"], ...]` |
 | `closing` | 마무리 띠 | `text`, `url?` |
 
-기사 카드(`stories[]`) 필드: `label, title, body, why?, est?(전망·해석 포함 표시), headline?(제목 기준 표시), src: [["매체 (날짜)", 주소 또는 null], ...]`
+기사 카드(`stories[]`) 필드: `label, title, body, why?, est?(전망·해석 포함 표시), src: [["매체 (날짜)", 주소 또는 null], ...]`
 
 ## 종류별 권장 섹션
 - 주간: 제품군별 `feature` 섹션들 + FIELD NOTE(`notes`, `terms`, `closing`)

@@ -23,6 +23,13 @@ const path = require('path');
     if (errs.length || r.pages < 2 || r.overflow || r.srcNoLink) bad = true;
   }
   await b.close();
+  // 본문 미확인 기사·확인 과정 설명 금지 (config/scope.md 11·12)
+  const fs = require('fs');
+  const src = fs.readFileSync(path.join(dir, 'content.js'), 'utf8');
+  const banned = [/"headline"\s*:\s*true/, /제목 기준/, /제목만/, /확인하지 못/, /본문을 열/, /게시처만/, /기준으로만 확인/];
+  const hits = banned.filter(re => re.test(src)).map(re => re.source);
+  console.log('banned', hits.length ? 'FOUND: ' + hits.join(', ') : 'none');
+  if (hits.length) bad = true;
   console.log(bad ? 'CHECK FAILED' : 'CHECK OK');
   process.exit(bad ? 1 : 0);
 })();
