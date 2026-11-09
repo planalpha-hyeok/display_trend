@@ -1,6 +1,6 @@
 /* 발행 알림을 플로우 채팅으로 보낸다. 영업일에만, 하루 한 메시지로 합쳐서.
    사용: node tools/flow_notify.js [--date YYYY-MM-DD] [--dry-run]
-         node tools/flow_notify.js --rooms      (채팅방 목록 확인)
+         node tools/flow_notify.js --check      (키·채팅방 확인, 읽기 전용)
    규칙: 실행일 D 가 쉬는 날이면 보내지 않는다.
          직전 영업일 P 다음날 ~ D 사이에 발행된 호(issues.js 의 date)를 모아 한 메시지로 보낸다.
          → 주말·공휴일에 발행된 호는 다음 영업일에 함께 나간다.
@@ -21,12 +21,12 @@ function arg(name) {
 }
 
 async function main() {
-  if (process.argv.includes("--rooms")) {
-    const r = await api.listRooms();
-    console.log("HTTP " + r.status + "\n" + r.body);
+  const cfg = JSON.parse(fs.readFileSync(path.join(ROOT, "config", "flow.json"), "utf8"));
+  if (process.argv.includes("--check")) {
+    const r = api.getRoom(cfg);
+    console.log((r.status === 200 ? "OK" : "FAIL") + " HTTP " + r.status);
     return;
   }
-  const cfg = JSON.parse(fs.readFileSync(path.join(ROOT, "config", "flow.json"), "utf8"));
   const dry = process.argv.includes("--dry-run");
   const d = arg("--date") || bizday.todayKst();
   const hol = bizday.loadHolidays();
@@ -40,7 +40,7 @@ async function main() {
 
   const text = msg.buildMessage(picked, DOCS, cfg.siteUrl);
   if (dry) { console.log("DRY-RUN " + picked.length + "\n" + text); return; }
-  const data = await api.sendChat(cfg, text);
+  const data = api.sendChat(cfg, text);
   console.log("SENT " + picked.length + " " + picked.map((x) => x.type + ":" + x.id).join(", ") + " messageId=" + (data.messageId || "-"));
 }
 

@@ -17,5 +17,5 @@
 ## 설정
 - `config/flow.json`: `mode`("user" 개인 API 키 / "v1" 관리자 API 키), `roomId`(채팅방 ID), `registerId`(v1 일 때 작성자 ID)
 - API 키: 환경의 Network secrets(호스트 `api.flow.team`, 헤더 `x-flow-api-key`) 또는 환경변수 `FLOW_API_KEY`. 저장소에 쓰지 않는다.
-- 채팅방 ID 확인: `node tools/flow_notify.js --rooms` (user 모드 키)
+- 키·채팅방 확인(읽기 전용): `node tools/flow_notify.js --check`
 - 미리보기: `node tools/flow_notify.js --date 2026-11-02 --dry-run`
