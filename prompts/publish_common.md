@@ -32,11 +32,11 @@
 1. 호 폴더를 만든다: `docs/<종류>/<호 이름>/`
 2. `docs/assets/issue.html` 을 그 폴더의 `index.html` 로 복사한다.
 3. `content.js` 를 `docs/assets/README.md` 형식대로 작성한다. 한국어, 객관적·간결하게.
-4. 사진은 공용 사진 목록 `docs/assets/img/catalog.json`(73장, 주제별)에서 고른다.
+4. 사진은 공용 사진 목록 `docs/assets/img/catalog.json`(83장, 주제별)에서 고른다.
    `node tools/pick_photos.js cover:outdoor-led hot:<주제> led:led-macro epson:projector class:classroom media:immersive global:<주제>`
    처럼 용도:주제를 넘기면 **최근 4개 호에 쓴 사진을 빼고** 사진을 골라 준다(src·alt·credit 출력, caption·tag 만 직접 쓴다).
    주제 목록은 catalog.json 의 topics. 기사 내용에 더 맞는 주제를 고른다. 같은 호 안에서 같은 사진을 두 번 쓰지 않는다.
-   촬영자 표기(credit)는 그대로 둔다. 흑백 사진·특정 상표가 크게 보이는 사진은 목록에 넣지 않는다.
+   촬영자 표기(credit)는 그대로 둔다. 흑백 사진·특정 상표가 크게 보이는 사진은 목록에 넣지 않는다. AI 생성 사진(source: ai)은 credit 을 그대로 써서 AI 생성임을 밝힌다.
 5. 본문에 싣지 않았지만 관련 있는 기사(10~30건)는 `extraSources` 에 `["매체 (날짜) 기사 제목", 주소]` 로 넣는다. 호 맨 끝 ALL SOURCES 쪽에 자동으로 나온다.
 6. 마지막 섹션의 `closing` 은 `{"kind":"closing","text":"지난 호 전체 목록 보기","url":"../../"}`. Drive 등 비공개 주소는 쓰지 않는다.
 7. `docs/issues.js` 의 목록 맨 앞에 새 호를 한 줄 추가한다.

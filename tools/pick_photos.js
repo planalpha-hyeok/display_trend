@@ -55,7 +55,7 @@ function main() {
     pool.sort((a, b) => score(b) - score(a) || a.file.localeCompare(b.file));
     const p = pool[0];
     taken.add(p.file);
-    out[purpose] = { src: "../../assets/img/" + p.file, alt: p.alt, credit: "Photo: " + p.credit + " / Unsplash", _topic: p.topic + note };
+    out[purpose] = { src: "../../assets/img/" + p.file, alt: p.alt, credit: p.source === "ai" ? p.credit : "Photo: " + p.credit + " / Unsplash", _topic: p.topic + note };
   }
   console.log(JSON.stringify(out, null, 2));
 }

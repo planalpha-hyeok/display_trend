@@ -1,5 +1,5 @@
 {
- "_설명": "공용 사진 목록. 사용 시 credit 은 'Photo: <credit> / Unsplash' 로 표기. 사진 고르기: node tools/pick_photos.js",
+ "_설명": "공용 사진 목록. credit 표기: Unsplash 사진은 'Photo: <credit> / Unsplash', source 가 ai 인 사진은 credit 그대로('AI 생성 이미지 (Gemini)'). 사진 고르기: node tools/pick_photos.js",
  "topics": {
   "outdoor-led": "실외 전광판·도심 LED",
   "led-macro": "LED 소자·픽셀 근접",
@@ -41,6 +41,13 @@
    "unsplash": "qhamVJdrkRs"
   },
   {
+   "file": "ai-classroom-board.jpg",
+   "topic": "classroom",
+   "alt": "전자칠판으로 수업하는 초등학교 교실",
+   "credit": "AI 생성 이미지 (Gemini)",
+   "source": "ai"
+  },
+  {
    "file": "classroom-kids.jpg",
    "topic": "classroom",
    "alt": "수업 중인 초등학교 교실",
@@ -59,6 +66,13 @@
    "topic": "classroom",
    "alt": "스마트 교실",
    "credit": "Haseeb Modi"
+  },
+  {
+   "file": "ai-control-center.jpg",
+   "topic": "control-room",
+   "alt": "대형 비디오월이 있는 관제센터",
+   "credit": "AI 생성 이미지 (Gemini)",
+   "source": "ai"
   },
   {
    "file": "av-operator.jpg",
@@ -108,6 +122,13 @@
    "alt": "박람회 부스에서 장비를 설명하는 모습",
    "credit": "Hossein Nasr",
    "unsplash": "rngipgK6gDo"
+  },
+  {
+   "file": "ai-immersive-hall.jpg",
+   "topic": "immersive",
+   "alt": "벽과 바닥에 영상을 투사한 몰입형 전시장",
+   "credit": "AI 생성 이미지 (Gemini)",
+   "source": "ai"
   },
   {
    "file": "gallery-display.jpg",
@@ -178,6 +199,27 @@
    "alt": "대형 화면을 가리키며 보는 관람객",
    "credit": "Karen Grigorean",
    "unsplash": "9D6UlCW38Ss"
+  },
+  {
+   "file": "ai-led-install-lobby.jpg",
+   "topic": "install",
+   "alt": "로비에서 LED 캐비닛을 설치하는 작업자",
+   "credit": "AI 생성 이미지 (Gemini)",
+   "source": "ai"
+  },
+  {
+   "file": "ai-outdoor-led-install.jpg",
+   "topic": "install",
+   "alt": "고소작업차로 건물 외벽 전광판을 시공하는 모습",
+   "credit": "AI 생성 이미지 (Gemini)",
+   "source": "ai"
+  },
+  {
+   "file": "ai-processor-rack.jpg",
+   "topic": "install",
+   "alt": "영상 처리 장비 랙과 배선",
+   "credit": "AI 생성 이미지 (Gemini)",
+   "source": "ai"
   },
   {
    "file": "fiber-switch.jpg",
@@ -296,6 +338,20 @@
    "credit": "Maximalfocus"
   },
   {
+   "file": "ai-meeting-led-wall.jpg",
+   "topic": "meeting",
+   "alt": "파인피치 LED 월이 있는 회의실",
+   "credit": "AI 생성 이미지 (Gemini)",
+   "source": "ai"
+  },
+  {
+   "file": "ai-video-conference.jpg",
+   "topic": "meeting",
+   "alt": "화상회의 중인 회의실",
+   "credit": "AI 생성 이미지 (Gemini)",
+   "source": "ai"
+  },
+  {
    "file": "conference-presentation.jpg",
    "topic": "meeting",
    "alt": "회의실 화면 앞 발표",
@@ -398,6 +454,13 @@
    "unsplash": "q4-N9h6vx8w"
   },
   {
+   "file": "ai-lecture-projector.jpg",
+   "topic": "projector",
+   "alt": "천장형 프로젝터가 있는 대학 강의실",
+   "credit": "AI 생성 이미지 (Gemini)",
+   "source": "ai"
+  },
+  {
    "file": "cinema-interior.jpg",
    "topic": "projector",
    "alt": "영화관 스크린과 객석",
@@ -430,6 +493,13 @@
    "topic": "projector",
    "alt": "빛을 내는 프로젝터",
    "credit": "Alex Litvin"
+  },
+  {
+   "file": "ai-bus-stop-led.jpg",
+   "topic": "signage",
+   "alt": "버스정류장 LED 안내 화면",
+   "credit": "AI 생성 이미지 (Gemini)",
+   "source": "ai"
   },
   {
    "file": "airport-baggage-screen.jpg",
