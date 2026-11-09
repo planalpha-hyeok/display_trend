@@ -13,9 +13,9 @@ window.REPORT = {
   },
   "cover": {
     "photo": {
-      "src": "../../assets/img/cover.jpg",
-      "alt": "해 질 녘 건물 외벽의 대형 LED 전광판",
-      "credit": "Photo: John Cameron / Unsplash",
+      "src": "../../assets/img/mall-led-screen.jpg",
+      "alt": "도심 쇼핑몰 외벽 대형 LED 화면",
+      "credit": "Photo: Percival Sánchez / Unsplash",
       "caption": "수집 기사 494건 중 실무 관련 소식을 골랐습니다",
       "tag": "THIS WEEK"
     },
@@ -46,9 +46,9 @@ window.REPORT = {
           "kind": "feature",
           "layout": "split",
           "photo": {
-            "src": "../../assets/img/billboards.jpg",
-            "alt": "밤거리의 대형 전광판들",
-            "credit": "Photo: Robert Likovszki / Unsplash",
+            "src": "../../assets/img/city-billboards-street.jpg",
+            "alt": "밤거리 대형 전광판과 보행자",
+            "credit": "Photo: Florian Wehde / Unsplash",
             "caption": "대형 실외 전광판, 멈추지 않게 설계합니다",
             "tag": "LED"
           },
@@ -95,9 +95,9 @@ window.REPORT = {
           "kind": "feature",
           "layout": "grid",
           "photo": {
-            "src": "../../assets/img/led-dots.jpg",
-            "alt": "LED 소자 근접 사진",
-            "credit": "Photo: Bernard Hermant / Unsplash",
+            "src": "../../assets/img/rgb-subpixels.jpg",
+            "alt": "RGB 서브픽셀 근접",
+            "credit": "Photo: Gyula Jónás / Unsplash",
             "caption": "P1.93 회의실부터 실외 파인피치까지",
             "tag": "LED"
           },
@@ -189,9 +189,9 @@ window.REPORT = {
           "kind": "feature",
           "layout": "grid",
           "photo": {
-            "src": "../../assets/img/projector.jpg",
-            "alt": "빛을 내는 프로젝터",
-            "credit": "Photo: Alex Litvin / Unsplash",
+            "src": "../../assets/img/light-beam-smoke.jpg",
+            "alt": "연기 속을 지나는 파란 빛줄기",
+            "credit": "Photo: Adam Young / Unsplash",
             "caption": "움직이는 무대를 따라가는 투사",
             "tag": "EPSON"
           },
@@ -245,9 +245,9 @@ window.REPORT = {
           "kind": "feature",
           "layout": "grid",
           "photo": {
-            "src": "../../assets/img/classroom.jpg",
-            "alt": "스마트 교실 내부",
-            "credit": "Photo: Haseeb Modi / Unsplash",
+            "src": "../../assets/img/classroom-teacher.jpg",
+            "alt": "교사와 학생들이 있는 교실",
+            "credit": "Photo: National Cancer Institute / Unsplash",
             "caption": "유아기관까지 넓어지는 전자칠판",
             "tag": "교육"
           },
@@ -319,9 +319,9 @@ window.REPORT = {
           "kind": "feature",
           "layout": "grid",
           "photo": {
-            "src": "../../assets/img/mapping.jpg",
-            "alt": "건물 외벽 프로젝션 매핑",
-            "credit": "Photo: Maximalfocus / Unsplash",
+            "src": "../../assets/img/mapping-festival.jpg",
+            "alt": "빛 축제에서 건물 외벽에 투사한 영상",
+            "credit": "Photo: Tintinburgh / Unsplash",
             "caption": "도심 외벽이 화면이 됩니다",
             "tag": "MEDIA ART"
           },
@@ -404,9 +404,9 @@ window.REPORT = {
           "kind": "feature",
           "layout": "grid",
           "photo": {
-            "src": "../../assets/img/led-color.jpg",
-            "alt": "여러 색 LED 소자",
-            "credit": "Photo: henry perks / Unsplash",
+            "src": "../../assets/img/server-rack.jpg",
+            "alt": "서버실 랙",
+            "credit": "Photo: Kevin Ache / Unsplash",
             "caption": "전광판 보안이 화제가 된 한 주",
             "tag": "GLOBAL"
           },

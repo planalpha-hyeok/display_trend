@@ -1,0 +1,526 @@
+{
+ "_설명": "공용 사진 목록. 사용 시 credit 은 'Photo: <credit> / Unsplash' 로 표기. 사진 고르기: node tools/pick_photos.js",
+ "topics": {
+  "outdoor-led": "실외 전광판·도심 LED",
+  "led-macro": "LED 소자·픽셀 근접",
+  "stage": "공연·무대",
+  "control-room": "관제실·영상 제어",
+  "projector": "프로젝터·스크린·영화관·강의실 투사",
+  "mapping": "건물 외벽 프로젝션 매핑",
+  "immersive": "몰입형 전시·미디어아트",
+  "classroom": "교실·교육",
+  "meeting": "회의실·화상회의",
+  "signage": "공항·공공 안내 화면",
+  "install": "설치·배선·랙",
+  "stadium": "경기장 전광판",
+  "expo": "전시회·박람회",
+  "printer": "프린터·복합기",
+  "broadcast": "방송 스튜디오",
+  "digital-art": "디지털 아트 스크린"
+ },
+ "photos": [
+  {
+   "file": "broadcast-engineer.jpg",
+   "topic": "broadcast",
+   "alt": "방송 장비를 다루는 엔지니어",
+   "credit": "ThisisEngineering",
+   "unsplash": "5KxOM7cKhmA"
+  },
+  {
+   "file": "news-studio-led.jpg",
+   "topic": "broadcast",
+   "alt": "LED 화면을 둔 뉴스 스튜디오",
+   "credit": "mustafa alabri",
+   "unsplash": "JxzV1k-sfCU"
+  },
+  {
+   "file": "tv-studio-camera.jpg",
+   "topic": "broadcast",
+   "alt": "카메라와 장비가 있는 TV 스튜디오",
+   "credit": "Brad Weaver",
+   "unsplash": "qhamVJdrkRs"
+  },
+  {
+   "file": "classroom-kids.jpg",
+   "topic": "classroom",
+   "alt": "수업 중인 초등학교 교실",
+   "credit": "Taylor Flowe",
+   "unsplash": "4nKOEAQaTgA"
+  },
+  {
+   "file": "classroom-teacher.jpg",
+   "topic": "classroom",
+   "alt": "교사와 학생들이 있는 교실",
+   "credit": "National Cancer Institute",
+   "unsplash": "N_aihp118p8"
+  },
+  {
+   "file": "classroom.jpg",
+   "topic": "classroom",
+   "alt": "스마트 교실",
+   "credit": "Haseeb Modi"
+  },
+  {
+   "file": "av-operator.jpg",
+   "topic": "control-room",
+   "alt": "영상·음향 장비를 조작하는 운영자",
+   "credit": "Qeis Ismail",
+   "unsplash": "vwo_izFVy-k"
+  },
+  {
+   "file": "control-room-desk.jpg",
+   "topic": "control-room",
+   "alt": "모니터가 놓인 관제실 책상",
+   "credit": "Miha Meglic",
+   "unsplash": "p7Bfwn_VKRQ"
+  },
+  {
+   "file": "control-room-equipment.jpg",
+   "topic": "control-room",
+   "alt": "장비와 모니터가 가득한 관제실",
+   "credit": "Dmitrijs Safrans",
+   "unsplash": "2CakbXfm_gM"
+  },
+  {
+   "file": "video-control-desk.jpg",
+   "topic": "control-room",
+   "alt": "여러 모니터를 둔 영상 제어 데스크",
+   "credit": "AMONWAT DUMKRUT",
+   "unsplash": "NzxypW_bg1M"
+  },
+  {
+   "file": "led-artbox.jpg",
+   "topic": "digital-art",
+   "alt": "빈 박물관 지구의 디지털 스크린 아트",
+   "credit": "Arno Senoner",
+   "unsplash": "FDtJZDU8kws"
+  },
+  {
+   "file": "expo-hall.jpg",
+   "topic": "expo",
+   "alt": "부스가 늘어선 박람회장",
+   "credit": "Margo Evardson",
+   "unsplash": "pllryrlWiSM"
+  },
+  {
+   "file": "expo-presentation.jpg",
+   "topic": "expo",
+   "alt": "박람회 부스에서 장비를 설명하는 모습",
+   "credit": "Hossein Nasr",
+   "unsplash": "rngipgK6gDo"
+  },
+  {
+   "file": "gallery-display.jpg",
+   "topic": "immersive",
+   "alt": "작품 화면 앞 관람객",
+   "credit": "Kwynett Bragado",
+   "unsplash": "FSPPPpLNlas"
+  },
+  {
+   "file": "immersive-blue.jpg",
+   "topic": "immersive",
+   "alt": "파란 영상 벽 앞 관람객",
+   "credit": "Gunnar Ridderström",
+   "unsplash": "88xMdGUnrE8"
+  },
+  {
+   "file": "immersive-crowd.jpg",
+   "topic": "immersive",
+   "alt": "몰입형 미디어아트 전시 관람객",
+   "credit": "Robynne O",
+   "unsplash": "HOrhCnQsxnQ"
+  },
+  {
+   "file": "immersive-dark.jpg",
+   "topic": "immersive",
+   "alt": "어두운 전시실의 빛 설치 작품",
+   "credit": "Rodolfo Cuadros",
+   "unsplash": "WNk-f-TnZDw"
+  },
+  {
+   "file": "immersive-hill.jpg",
+   "topic": "immersive",
+   "alt": "바닥·벽 몰입형 프로젝션 전시",
+   "credit": "note thanun",
+   "unsplash": "GI10ZiPO_3w"
+  },
+  {
+   "file": "interactive-screen.jpg",
+   "topic": "immersive",
+   "alt": "빛나는 인터랙티브 화면 앞 관람객",
+   "credit": "Fujiphilm",
+   "unsplash": "pQh3wvcsWj4"
+  },
+  {
+   "file": "light-installation.jpg",
+   "topic": "immersive",
+   "alt": "천장에 매단 빛 설치 작품",
+   "credit": "Marius Masalar",
+   "unsplash": "CyFBmFEsytU"
+  },
+  {
+   "file": "light-wall-person.jpg",
+   "topic": "immersive",
+   "alt": "빛으로 채운 벽 앞에 선 사람",
+   "credit": "Caleb Jack",
+   "unsplash": "NaxA1dH_JGg"
+  },
+  {
+   "file": "mural-room.jpg",
+   "topic": "immersive",
+   "alt": "대형 벽면 영상 앞에 앉은 관람객",
+   "credit": "Neon Wang",
+   "unsplash": "A5rpEbJ3S_c"
+  },
+  {
+   "file": "museum-display-point.jpg",
+   "topic": "immersive",
+   "alt": "대형 화면을 가리키며 보는 관람객",
+   "credit": "Karen Grigorean",
+   "unsplash": "9D6UlCW38Ss"
+  },
+  {
+   "file": "fiber-switch.jpg",
+   "topic": "install",
+   "alt": "랙의 광케이블과 네트워크 스위치",
+   "credit": "Kirill Sh",
+   "unsplash": "eVWWr6nmDf8"
+  },
+  {
+   "file": "led-panel-back-cables.jpg",
+   "topic": "install",
+   "alt": "LED 모듈 뒷면 배선",
+   "credit": "Kier in Sight Archives",
+   "unsplash": "3Nwt6w-KU3E"
+  },
+  {
+   "file": "led-wall-install.jpg",
+   "topic": "install",
+   "alt": "사다리에 올라 LED 월을 설치하는 작업자",
+   "credit": "Ivan Lom",
+   "unsplash": "ka6yuVU7XGs"
+  },
+  {
+   "file": "network-cables-blue.jpg",
+   "topic": "install",
+   "alt": "서로 연결된 파란 네트워크 케이블",
+   "credit": "Scott Rodgerson",
+   "unsplash": "PSpf_XgOM5w"
+  },
+  {
+   "file": "server-rack.jpg",
+   "topic": "install",
+   "alt": "서버실 랙",
+   "credit": "Kevin Ache",
+   "unsplash": "2JJ3wBHu4_0"
+  },
+  {
+   "file": "truss-sections.jpg",
+   "topic": "install",
+   "alt": "설치용 알루미늄 트러스",
+   "credit": "Oleg",
+   "unsplash": "vQpEzAS6_bY"
+  },
+  {
+   "file": "utp-cable.jpg",
+   "topic": "install",
+   "alt": "랜(UTP) 케이블 연결부",
+   "credit": "Jordan Harrison",
+   "unsplash": "40XgDxBfYXM"
+  },
+  {
+   "file": "led-color.jpg",
+   "topic": "led-macro",
+   "alt": "여러 색 LED 소자",
+   "credit": "henry perks"
+  },
+  {
+   "file": "led-dots.jpg",
+   "topic": "led-macro",
+   "alt": "LED 소자 근접",
+   "credit": "Bernard Hermant"
+  },
+  {
+   "file": "led-glow-dark.jpg",
+   "topic": "led-macro",
+   "alt": "어둠 속에서 빛나는 LED",
+   "credit": "Daniel Cooke",
+   "unsplash": "xZvi-BZ08f8"
+  },
+  {
+   "file": "rgb-subpixels.jpg",
+   "topic": "led-macro",
+   "alt": "RGB 서브픽셀 근접",
+   "credit": "Gyula Jónás",
+   "unsplash": "dzjfnSneOxU"
+  },
+  {
+   "file": "screen-pixels-macro.jpg",
+   "topic": "led-macro",
+   "alt": "화면 픽셀 근접 촬영",
+   "credit": "Michael Maasen",
+   "unsplash": "AkYGy_ymFqo"
+  },
+  {
+   "file": "mapping-abstract.jpg",
+   "topic": "mapping",
+   "alt": "밤 건물 외벽에 투사된 추상 영상",
+   "credit": "Ming Huang",
+   "unsplash": "qdSf5mfeAnY"
+  },
+  {
+   "file": "mapping-festival.jpg",
+   "topic": "mapping",
+   "alt": "빛 축제에서 건물 외벽에 투사한 영상",
+   "credit": "Tintinburgh",
+   "unsplash": "sxRlJnLVvDI"
+  },
+  {
+   "file": "mapping-museum.jpg",
+   "topic": "mapping",
+   "alt": "박물관 건물 외벽 프로젝션 매핑",
+   "credit": "Bernd Dittrich",
+   "unsplash": "LPoO0xizsEo"
+  },
+  {
+   "file": "mapping-silhouette.jpg",
+   "topic": "mapping",
+   "alt": "프로젝션 매핑 외벽 앞 관람객",
+   "credit": "Bernd Dittrich",
+   "unsplash": "tpQ1UPd4dGA"
+  },
+  {
+   "file": "mapping.jpg",
+   "topic": "mapping",
+   "alt": "건물 외벽 프로젝션 매핑",
+   "credit": "Maximalfocus"
+  },
+  {
+   "file": "conference-presentation.jpg",
+   "topic": "meeting",
+   "alt": "회의실 화면 앞 발표",
+   "credit": "Vitaly Gariev",
+   "unsplash": "l0E0Y1TdzxE"
+  },
+  {
+   "file": "meeting.jpg",
+   "topic": "meeting",
+   "alt": "회의실",
+   "credit": "Arlington Research"
+  },
+  {
+   "file": "screen-empty-room.jpg",
+   "topic": "meeting",
+   "alt": "의자가 놓인 방의 대형 화면",
+   "credit": "Michael Pointner",
+   "unsplash": "slLtsFgd8Z4"
+  },
+  {
+   "file": "video-call-home.jpg",
+   "topic": "meeting",
+   "alt": "노트북으로 화상통화하는 모습",
+   "credit": "Vitaly Gariev",
+   "unsplash": "xZm0V49NXJI"
+  },
+  {
+   "file": "billboards.jpg",
+   "topic": "outdoor-led",
+   "alt": "밤거리 대형 전광판들",
+   "credit": "Robert Likovszki"
+  },
+  {
+   "file": "city-billboards-crowd.jpg",
+   "topic": "outdoor-led",
+   "alt": "전광판이 늘어선 밤의 광장",
+   "credit": "David Vives",
+   "unsplash": "SQZjnsR6fsY"
+  },
+  {
+   "file": "city-billboards-street.jpg",
+   "topic": "outdoor-led",
+   "alt": "밤거리 대형 전광판과 보행자",
+   "credit": "Florian Wehde",
+   "unsplash": "iVW7mZPwd4g"
+  },
+  {
+   "file": "city-led-buildings.jpg",
+   "topic": "outdoor-led",
+   "alt": "전광판이 달린 고층 건물 거리",
+   "credit": "Amelia",
+   "unsplash": "jdar5rVdlas"
+  },
+  {
+   "file": "city-night-crowd.jpg",
+   "topic": "outdoor-led",
+   "alt": "전광판 아래 밤거리 인파",
+   "credit": "B C",
+   "unsplash": "5ueXpGTzlxI"
+  },
+  {
+   "file": "cover.jpg",
+   "topic": "outdoor-led",
+   "alt": "해 질 녘 건물 외벽 대형 LED 전광판",
+   "credit": "John Cameron"
+  },
+  {
+   "file": "facade-art-night.jpg",
+   "topic": "outdoor-led",
+   "alt": "밤에 디지털 아트를 띄운 건물 외벽",
+   "credit": "Celine Ly",
+   "unsplash": "NpwbASm2_l0"
+  },
+  {
+   "file": "led-street-art.jpg",
+   "topic": "outdoor-led",
+   "alt": "LED 작품이 설치된 건물 옆 거리",
+   "credit": "Kevin Grieve",
+   "unsplash": "-2DTP-Ssddw"
+  },
+  {
+   "file": "mall-led-screen.jpg",
+   "topic": "outdoor-led",
+   "alt": "도심 쇼핑몰 외벽 대형 LED 화면",
+   "credit": "Percival Sánchez",
+   "unsplash": "0RsRs0rYoSE"
+  },
+  {
+   "file": "office-copier.jpg",
+   "topic": "printer",
+   "alt": "사무실 복합기",
+   "credit": "engin akyurt",
+   "unsplash": "CGnoRQZGWmw"
+  },
+  {
+   "file": "office-copying.jpg",
+   "topic": "printer",
+   "alt": "사무실에서 복사하는 모습",
+   "credit": "Centre for Ageing Better",
+   "unsplash": "q4-N9h6vx8w"
+  },
+  {
+   "file": "cinema-interior.jpg",
+   "topic": "projector",
+   "alt": "영화관 스크린과 객석",
+   "credit": "Augusto Oazi",
+   "unsplash": "KWOcA8_Vu10"
+  },
+  {
+   "file": "classroom-screen.jpg",
+   "topic": "projector",
+   "alt": "프로젝터 화면 앞 발표를 듣는 사람들",
+   "credit": "david jun",
+   "unsplash": "b-k28YDVJxU"
+  },
+  {
+   "file": "lecture-projector.jpg",
+   "topic": "projector",
+   "alt": "프로젝터 화면이 있는 강의실",
+   "credit": "Quilia",
+   "unsplash": "1-aA2Fadydc"
+  },
+  {
+   "file": "light-beam-smoke.jpg",
+   "topic": "projector",
+   "alt": "연기 속을 지나는 파란 빛줄기",
+   "credit": "Adam Young",
+   "unsplash": "G5-MFy3d1vw"
+  },
+  {
+   "file": "projector.jpg",
+   "topic": "projector",
+   "alt": "빛을 내는 프로젝터",
+   "credit": "Alex Litvin"
+  },
+  {
+   "file": "airport-baggage-screen.jpg",
+   "topic": "signage",
+   "alt": "대형 안내 화면이 있는 수하물 찾는 곳",
+   "credit": "Eric Prouzet",
+   "unsplash": "nTHnC5-z334"
+  },
+  {
+   "file": "airport-checkin.jpg",
+   "topic": "signage",
+   "alt": "디지털 화면이 달린 공항 체크인 카운터",
+   "credit": "Edwin Petrus",
+   "unsplash": "7IHHoNL1otQ"
+  },
+  {
+   "file": "airport-screens.jpg",
+   "topic": "signage",
+   "alt": "전광 안내 화면이 많은 공항 터미널",
+   "credit": "David",
+   "unsplash": "_QA8W30w8PQ"
+  },
+  {
+   "file": "arena-jumbotron.jpg",
+   "topic": "stadium",
+   "alt": "실내 경기장 천장 대형 화면",
+   "credit": "Alex Lian",
+   "unsplash": "e2a2RYfmOjU"
+  },
+  {
+   "file": "stadium-crowd.jpg",
+   "topic": "stadium",
+   "alt": "관중이 가득한 경기장",
+   "credit": "Myron Mott",
+   "unsplash": "PY_5cDlKvM8"
+  },
+  {
+   "file": "stadium-field.jpg",
+   "topic": "stadium",
+   "alt": "경기장 전경과 전광판",
+   "credit": "Patrick Ogilvie",
+   "unsplash": "GB9XKDZWwp0"
+  },
+  {
+   "file": "concert-band.jpg",
+   "topic": "stage",
+   "alt": "밴드 공연 무대",
+   "credit": "Roberto Rendon",
+   "unsplash": "nlotvqL7KoY"
+  },
+  {
+   "file": "concert-crowd.jpg",
+   "topic": "stage",
+   "alt": "야외 공연 관객과 무대 화면",
+   "credit": "Spencer Davis",
+   "unsplash": "naFHFLV5cqU"
+  },
+  {
+   "file": "stage-blue.jpg",
+   "topic": "stage",
+   "alt": "파란 LED 화면 앞 무대 공연",
+   "credit": "Y K",
+   "unsplash": "x5JU6lc82EA"
+  },
+  {
+   "file": "stage-empty-lights.jpg",
+   "topic": "stage",
+   "alt": "조명이 켜진 빈 무대",
+   "credit": "Elijah Ekdahl",
+   "unsplash": "8XxF2kYHIgo"
+  },
+  {
+   "file": "stage-people.jpg",
+   "topic": "stage",
+   "alt": "LED 무대 앞 관객",
+   "credit": "Chris Tan",
+   "unsplash": "Tph1OYXH1MQ"
+  },
+  {
+   "file": "stage-presenter.jpg",
+   "topic": "stage",
+   "alt": "무대 위 발표자와 화면",
+   "credit": "xavier xanders",
+   "unsplash": "IZyUDvPMJCg"
+  },
+  {
+   "file": "stage-violet.jpg",
+   "topic": "stage",
+   "alt": "보라 조명과 LED 화면의 공연 무대",
+   "credit": "kylie De Guia",
+   "unsplash": "CX9quolwCfM"
+  }
+ ]
+}

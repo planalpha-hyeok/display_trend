@@ -14,7 +14,7 @@
 | `docs/quarterly/YYYY-QN/` | 분기 호 |
 
 새 호를 만들 때는 **content.js 만 작성**하고 index.html 은 `assets/issue.html` 을 복사한다.
-사진을 새로 쓰면 `assets/img/` 에 추가하고 content.js 에서 `../../assets/img/파일명` 으로 참조한다.
+사진 목록은 `assets/img/catalog.json`. 사진을 새로 추가하면 catalog.json 에도 한 줄(file, topic, alt, credit) 넣는다. 고르기는 `node tools/pick_photos.js`.
 
 ## content.js 형식
 ```js
