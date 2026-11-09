@@ -65,7 +65,7 @@ window.REPORT = {
                 ],
                 [
                   "TJB (10/27)",
-                  "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlZjlRb1RETjJGaUdmZWpYUTlSSVlMMnRnYUE4WEFJb2kzNWtuV2VZZkNNZTB2TUZlREMya1VNREVfRDJZWDRKNHNmbFdXVW9WRDU5THliZ3dmY2w2Y2p3OHF0YVlVdVRBYzYzNkdBZw?oc=5"
+                  "https://www.tjb.co.kr/news03/category/view/id/105357/version/1"
                 ]
               ]
             },
@@ -121,12 +121,11 @@ window.REPORT = {
             {
               "label": "옥외 매체",
               "title": "동대문·영등포도 '초대형 전광판' 추진",
-              "body": "건물 외벽을 활용한 초대형 전광판 사업이 동대문·영등포 일대에서도 추진된다는 기사입니다.",
-              "headline": true,
+              "body": "서울시가 타사광고 허용 지역을 공업지역까지 넓히고, 시장이 지정하는 특정구역에서는 벽면 전광판을 현재 최대 225㎡에서 최대 2,000㎡(벽면의 절반 이내)까지 허용하는 조례 개정을 추진합니다. 문래·성수·구로·가산 등 준공업지역과 DDP가 있는 동대문 일대가 거론됩니다. 개정 시점과 특정구역(1~2곳 시범 유력)은 정해지지 않았습니다.",
               "src": [
                 [
                   "매일경제 (10/31)",
-                  "https://news.google.com/rss/articles/CBMiRkFVX3lxTE15RlIzU1JPc25DQXMzZi0wQkhsWnpkaDZDS0JHYi1VOVgzQm1oY19TeEUzanhOdE42SHBIeWNWNGpnT2R6cUE?oc=5"
+                  "https://www.mk.co.kr/news/society/12192513"
                 ]
               ]
             },
@@ -155,31 +154,29 @@ window.REPORT = {
                 ],
                 [
                   "연합뉴스 (10/27)",
-                  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZOU1NNVFwYmo4c2QxU25xVGNuRG13bEx0U2g2RGN5YUV0S0c3VGZOYWxSRGVMTmtNXzR5TWRQMndmcTg3MElFR0ZnbmRkNldlczYzYXNLbjJQNlnSAWBBVV95cUxORWNOeVA2UUVfcDlObzRmUHhfMVRmaHlPM1NPY0p0YXFaX29WNXVJa1hxSHgwUGRlTVM2ZDBnbEJ4NXQ4cUx6SEFQVEhBX3FZY29LTmhEN2FpRW82VDJBeE8?oc=5"
+                  "https://www.yna.co.kr/view/AKR20261027035900530"
                 ]
               ]
             },
             {
               "label": "Novastar",
               "title": "SIA Interactive, 사이니지 소프트웨어 'Dex Suite'를 Novastar에 도입",
-              "body": "Novastar 기반 LED 디스플레이에서 Dex Suite를 운영할 수 있게 된다는 소식입니다. 지원 기종과 호환 범위는 확인하지 못했습니다.",
-              "headline": true,
+              "body": "사이니지 소프트웨어 Dex Suite가 Novastar Taurus 멀티미디어 컨트롤러(TB1, TB1-4G, TB20 Plus, TB30, TB40, TB50, TB60)의 표준 펌웨어에서 바로 실행됩니다. 별도 미디어 플레이어 없이 콘텐츠 관리, 원격 재부팅, 화면 캡처를 할 수 있습니다. LED 밝기 원격 조절 등은 다음 단계로 개발 중입니다.",
               "src": [
                 [
-                  "Sixteen:Nine (10/30)",
-                  "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOTNTU3c2WXU1UThaemNqSmRmYVZidVRuaE5WRUlid01aMkllTTU4ZWxiSzNITGRUOVFFbHNaSG1yLU5NU1RUYzB2TW1TMzBaSjRzSGpEQ3JDMnBWZDY4RFlhbDB2M1FSOTQ1V25IeHFYLTljUVF5ZzNDenAzNVVEcjJsTGR5eEVGRWl4UGFYSXlhZUl6eXd4YllONWdVVXBHa2ttYlRR?oc=5"
+                  "invidis (10/30)",
+                  "https://invidis.com/news/2026/10/digital-signage-software-sia-interactive-brings-dex-suite-to-novastar/"
                 ]
               ]
             },
             {
               "label": "Colorlight",
               "title": "Colorlight Cloud Tech, 약 1억 위안 규모 자사주 매입 발표",
-              "body": "1,576,800주를 매입한다고 발표했습니다. 같은 날 1~9월 실적도 발표했지만 수치는 확인하지 못했습니다.",
-              "headline": true,
+              "body": "Colorlight Cloud Tech(선전증권거래소 301391)가 최대 1억 위안, 1,576,800주(주당 상한 63.42위안)의 자사주 매입 계획을 공시했습니다. 매입 주식은 주식 인센티브·직원 지주 제도에 쓰이며, 기간은 이사회 승인 후 12개월입니다.",
               "src": [
                 [
                   "MarketScreener (10/28)",
-                  "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOekRpSnFGbzBrSUtMcldDZVUtdUVBTjkzR05NSnRTM2lhamNkR1gyZFdTaGVHQjh0TE1LU25seGNJM2RYUFlfcUhaTTN1UXdZVGZLNUlmZEdYX0l2T0J0d040b1hvN1pfMnNWRHE4X3ZFWXdnbmY2RzlvYzU2dUlvM2c2T183dTdPS3EyM0o5TE84Sk12MlUzVl9BdWhnVmxaRUJwWG5ZUWNBMGxUT1FoRkhHTzM0M3cwRUp6VjJlSkJGdWRLcHk1YVFZb21saHh3WUdTR3lZRURUNWc3T01LTQ?oc=5"
+                  "https://www.marketscreener.com/news/colorlight-cloud-tech-ltd-announces-an-equity-buyback-for-1-576-800-shares-for-cny-100-million-ce785fdadd88f72d"
                 ]
               ]
             }
@@ -219,32 +216,29 @@ window.REPORT = {
             {
               "label": "홈시네마",
               "title": "Epson, 호주에 홈시어터 레이저 프로젝터 출시",
-              "body": "호주 시장에 홈시어터용 레이저 프로젝터를 출시했다는 기사입니다. 모델명과 국내 출시 여부는 확인하지 못했습니다.",
-              "headline": true,
+              "body": "Epson이 10/30 호주에서 3LCD 레이저 홈시어터 프로젝터 EH-LS6000(최대 3,400루멘, AUD 5,499)과 EH-LS7500(최대 3,500루멘, 단초점, AUD 5,899)을 출시했습니다. 두 모델 모두 4K 향상 기술, 광원 수명 최대 2만 시간이며, EH-LS6000은 렌즈 시프트(가로 21%·세로 59%)와 기존 EH-TW7100 천장 브래킷 호환을 내세웁니다.",
               "src": [
                 [
                   "FutureFive Australia (10/30)",
-                  "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN0NMY2Y0RVJtM3dyLWxQUE5ZOHBobkN1RWtmTDZTYkFpR3ZubUJWSTE5R19UZHlIOEpQUTBsWkU0QzE3Z1VKS3p5R1N0MHVDMjJTTHhjNDJaSk85eDhGVzlPZVdFZ0ZIY3c1MEpJUmpnaW4wQUFtelhrUHlqTlUzQzItVC0xanFJTW5UMkJ4dnY4UlU?oc=5"
+                  "https://futurefive.com.au/story/epson-launches-home-theatre-laser-projectors-in-australia"
                 ]
               ]
             },
             {
               "label": "교육",
               "title": "Epson, SIMO Education 2026에서 협업형 프로젝션·몰입형 학습 소개",
-              "body": "스페인 교육 전시회 SIMO Education에 참가해 교실용 협업 프로젝션과 몰입형 학습을 소개한다는 발표입니다.",
-              "headline": true,
+              "body": "Epson이 11/11~13 마드리드 IFEMA에서 열리는 교육 전시회 SIMO Education 2026에 참가합니다. 스크린 3면을 ThinkLink 소프트웨어로 관리하는 협업형 프로젝션 구역과 Telesonic과 함께 꾸민 몰입형 학습 공간을 선보입니다.",
               "src": [
                 [
                   "Digital AV Magazine (10/27)",
-                  "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb05DZHlBVG5jdjdJOEtpQWNGODhwX0FEdEM3OW5SOXc2YnVoSjU2SFJKajVQOXZmM1d0TFpUeDdxUlAtTUllQ3dCaUJvcTRza0kxajZlTklZVmNtNkxqTDdMaUxiTlJQU0ZZLXRxTEdUbEl6UmRGTW03THRrTE1xTDFFRGc2LW5NMWs4VnJrUU5Ramw5TGlvVERPbGN0ZFc2UkFNYjZlVkFYa0VwV2lKVXB0RFN2UQ?oc=5"
+                  "https://www.digitalavmagazine.com/en/2026/10/27/epson-proyeccion-colaborativa-aprendizaje-inmersivo-simo-educacion/"
                 ]
               ]
             },
             {
               "label": "프린터",
               "title": "Epson POS 라벨 프린터, 미국 푸드홀 주문 픽업에 적용",
-              "body": "Epson America가 플로리다 푸드홀의 주문 픽업 과정에 자사 POS 솔루션을 적용한 사례를 발표했습니다.",
-              "headline": true,
+              "body": "플로리다 세인트피터즈버그의 푸드홀 Central Park St. Pete가 각 매장에 OmniLink TM-L100 라이너리스(뒷종이 없는) 라벨 프린터, 바·출고대에 OmniLink 영수증 프린터를 설치했습니다. 키오스크·QR로 여러 매장 음식을 한 번에 주문하면 각 매장에서 고객 이름이 찍힌 라벨이 바로 출력됩니다.",
               "src": [
                 [
                   "Epson 뉴스룸 (10/27)",
@@ -276,13 +270,12 @@ window.REPORT = {
             {
               "label": "전자칠판",
               "title": "\"세금 2200억 썼는데 툭하면 고장\"…전자칠판 품질 문제 보도",
-              "body": "학교에 보급된 전자칠판이 자주 고장 나고, 분해해 보니 중국산이었다는 단독 기사입니다. 세부 내용은 원문을 열어 확인하지 못했습니다.",
+              "body": "서울교육청은 2021년부터 올해까지 전자칠판 2만5,351대에 2,211억 원을 교부했지만 학교별 고장·수리 이력은 따로 관리하지 않습니다. 학교 제출 자료 기준 고장·수리는 2022년 27건에서 올해 1~9월 359건으로 늘었고(누적 933건, 수리비 4억8,776만 원), 화면 불량(42.5%)과 터치 오류(42%)가 대부분입니다. 조달청 자료로는 나라장터 등록 전자칠판 487개의 LED 패널 원산지가 모두 중국입니다.",
               "why": "학교 납품 시 고장 대응 체계(A/S 기간, 부품 수급)를 묻는 경우가 늘어날 수 있습니다(전망).",
-              "headline": true,
               "src": [
                 [
                   "한국경제 (10/28)",
-                  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sQ2dpQ1R0NU93cTF5angyOFFEX04tTDNIeUtJS3FwN21XM1hoZ3RKc0VvcHFMMXEwRkk1WTdpQ2FEQTZ3N2loQmllR1E5WDVIQnBXNTM0SlJpUQ?oc=5"
+                  "https://www.hankyung.com/article/2026102814571"
                 ]
               ]
             },
@@ -300,12 +293,11 @@ window.REPORT = {
             {
               "label": "전자칠판 · 해외",
               "title": "LG전자, 폴란드 학교에 전자칠판 6,000대 공급 계획",
-              "body": "B2B 확대 전략의 하나로 보도됐습니다. 공급 시기와 계약 형태는 확인하지 못했습니다.",
-              "headline": true,
+              "body": "LG전자가 EU 자금으로 진행되는 폴란드 교육 디지털화 사업에서 올해 도입될 75인치 전자칠판 1만4,000대 가운데 5,000~6,000대를 공급할 계획입니다. 원격 관리·보안 소프트웨어를 묶은 B2B 솔루션 전략의 하나로 소개됐습니다.",
               "src": [
                 [
                   "한국신용신문 (10/30)",
-                  "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VZGhCZGZ2VFI5c3Vfby01U01reDh5TE1IYnhiOGZnd1NLdFhqRU9WNGNIYmI4ajhDbTBZTlZRZ1FYc1J6SjgtMkF0X29KTDRLTjUxcW9JcVdrWHRDSVBaSG9nRlFVZWYtUTRZ?oc=5"
+                  "https://www.creditnews.kr/news/articleView.html?idxno=32184"
                 ]
               ]
             },
@@ -313,23 +305,21 @@ window.REPORT = {
               "label": "Logitech",
               "title": "Logitech, 분기 이익 시장 예상 상회",
               "body": "게이밍·화상회의 제품 판매가 늘어 분기 이익이 시장 예상을 웃돌았다는 로이터 보도입니다.",
-              "headline": true,
               "src": [
                 [
                   "Reuters (10/27)",
-                  "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcThaVXpfV0FuUW1xWm9FNjNxcjFrUE5iWjB5UVNaSHRfNjdkX0lVZkN2eHpJODlZaGphX2FORlY3YnJ6aWlNVDRnTE4xX1c0NkxFdlQ1dGxIVnE4Y1BncFBOYlBnalVsemdmU0UtYUxTNzZlTi1rdHNVLVcyZk9xNDJ1NmFKZU5ldEo5TzdCNWdOOEQ3eGhCUkFSYmJ2SWt2dFpNaXpUd1RlcXdGeUlISXJqNTdZdw?oc=5"
+                  "https://www.reuters.com/business/logitech-beats-profit-forecast-sales-gaming-conferencing-products-rise-2026-10-27/"
                 ]
               ]
             },
             {
               "label": "Logitech",
               "title": "Logitech 보고서: 미국 공공기관 62%, 하이브리드 협업 장비 부족",
-              "body": "Logitech이 공공기관의 하이브리드 회의 환경을 조사한 보고서를 냈습니다. 조사 대상과 방법은 확인하지 못했습니다.",
-              "headline": true,
+              "body": "Logitech과 Market Connections가 미국 연방 기관의 업무 기술 담당자 200명을 조사한 결과, 62%가 하이브리드 협업을 지원할 기술이 부족하다고 답했습니다. 50%는 회의를 시작하거나 참여할 때 IT 지원이 자주 필요하다고 했고, 회의실 사용 현황을 모니터링하는 곳은 13%에 그쳤습니다.",
               "src": [
                 [
                   "ExecutiveBiz (10/27)",
-                  "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZTloYUxfWFRyU21kRlBBYjU0c0MwWmt4WVBNZ0E3bjlkRjZyN3R0Yjc2YkFfN3k3MkRKbXBpQmxTaDdFTERFSGlKRms2QkFCWGpmTFk2UWtPNGUzUnRxU3ZDOTdQbkJYcmt0dW4wRGFLemxQdU5iNGN0ZWpBdDNGVzY4QV91Q2Zub3ZnaDVrTVNtSkZEV2gzLVNn?oc=5"
+                  "https://www.executivebiz.com/articles/logitech-federal-agencies-hybrid-collaboration-tech-gaps"
                 ]
               ]
             }
@@ -397,12 +387,11 @@ window.REPORT = {
             {
               "label": "코트 프로젝션",
               "title": "미국 Creighton대, 농구 개막전에 코트 프로젝션 매핑 시스템 도입",
-              "body": "오마하 CHI Health Center 경기장 코트에 영상을 투사하는 시스템을 도입했다는 소식입니다. 사용 장비는 확인하지 못했습니다.",
-              "headline": true,
+              "body": "오마하 CHI Health Center 경기장이 천장에 여러 대의 프로젝터를 설치해 농구 코트 전체를 영상 화면으로 쓰는 시스템을 도입했습니다(비용 100만 달러 이상). 크레이턴대 남자농구 홈 개막전에서 처음 쓰였고, 선수 소개와 경기 중 연출, 배구 경기 등에도 활용됩니다.",
               "src": [
                 [
                   "WOWT (10/29)",
-                  "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQlJZQ2pvUk1rdFU2OHM3WHlJdzZCaHZKNlhvelFfWG9VZlF5Si1ldW52UHBycVpCMm5mMVZOZWdrUWJkcWVqMUlNaGhvTWJjZ1NITFdkX2FiWklMSVFRdW1iWDZ6eEs1S05BX1pOVHBHVm9tdWJ6dzlFdlc1TmdxYVRnTzJXM2YxR19neHBRY25rWTdyalFJZTBmUVNZTVFYSHNvS9IBuAFBVV95cUxOZUZfSUJYYVJ4TEhodzh4bGltX0RfeC0tZURMQkQwUWxyLURaZXNqbVduODFybENDUjJRRWFpdV85TEhlTHMxcW1udmFKaTZvWWg2UmVhemQ5TmRHUXlJOHZBN1FlV19IZUUzejJ4QTVCbkpKX09RTDBFcFllOXQxeDFLZ3dfVEVLR0cyZmQ2cHRSTVZuMHZiMWl0MENhU2hvelpVeTJnaEN5ZGVFT1BDMGN4dF9EWnV0?oc=5"
+                  "https://www.wowt.com/2026/10/29/creighton-debut-projection-mapping-system-mens-basketball-home-opener/"
                 ]
               ]
             }
@@ -450,47 +439,44 @@ window.REPORT = {
                 ],
                 [
                   "지디넷코리아 (10/28)",
-                  "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1cW52Tlk3azRiZUMxUjI3YW9GOE5hZkZCNHAzelpucVRib3BYRXZ2cEd1b3pJd2ZnNWJYTmlldFlla0xYNVVEdVFGWkpPRlFvX1pPQ2JR?oc=5"
+                  "https://zdnet.co.kr/view/?no=20261028183723"
                 ]
               ]
             },
             {
               "label": "버추얼 프로덕션",
               "title": "Brompton·AUO, 도쿄 버추얼 프로덕션 스튜디오에 장비 공급",
-              "body": "LED 프로세서 업체 Brompton과 패널 업체 AUO가 도쿄의 버추얼 프로덕션 스튜디오에 장비를 공급했다는 기사입니다. 스튜디오명과 픽셀피치는 확인하지 못했습니다.",
-              "headline": true,
+              "body": "도쿄 Digi-Cast HANEDA STUDIO(운영 Crescent)의 LED 볼륨에 AUO 패널과 Brompton 프로세서가 쓰였습니다. 메인 월은 41.5×10m, P1.95(2,000니트) 신규 패널이고, 측면 이동형 월 2개(6×6m, P3.9)와 높이 조절식 천장(약 23.5×15m, P5.2)으로 구성됩니다. Brompton Tessera SX40 27대와 XD 10G 57대가 들어갔습니다.",
               "src": [
                 [
                   "Installation International (10/27)",
-                  "https://news.google.com/rss/articles/CBMirwFBVV95cUxObWV0aVF1RVJacU0zc25ubW11ejlYVURXTkZqMTVXT2xnTEpCQlRHd2pWUUhFUlZ2V0Q4dXVibWhJaEljWjFVaVNoX2VucnRCLXNCQ0VKOUl1bUJrU21oX2xEV0NLcE9UWUNETlB5elNyeFNHQ1JBdnpxTDdTbm03MkVtMXBURzFwYWFvREFCenNZaW85X2pVZGE2V2dGRVlJUlR3aGgzX2JHRjBPc2FR?oc=5"
+                  "https://www.installation-international.com/case-studies/brompton-and-auo-equip-tokyo-virtual-production-studio"
                 ]
               ]
             },
             {
               "label": "Extron",
               "title": "Extron, AV over IP 플랫폼 NAV 기능 확장",
-              "body": "네트워크로 영상을 전송하는 Extron NAV 플랫폼의 확장 소식입니다. 추가된 기능은 확인하지 못했습니다.",
-              "headline": true,
+              "body": "Extron이 네트워크로 영상·음성을 전송하는 AV over IP 플랫폼 NAV의 제품군을 확장했습니다.",
               "src": [
                 [
                   "Pro AVL Asia (10/26)",
-                  "https://news.google.com/rss/articles/CBMieEFVX3lxTE83MkVIdU5SUE1Kb1VldmVDTWJMQm5zcGVyVXZ1WkRJZUl1ZTJ6aG80eGdEbG14YkNCVzFaS0loN3pnalNCNFVwSF90eHNTU3VtOVZLX1h3UUJTeUpidDNkaE00TDhCREtxU1N5NjM4QTk1dVk0NEFWUg?oc=5"
+                  "https://www.proavl-asia.com/details/81244-extron-expands-nav-platform"
                 ]
               ]
             },
             {
               "label": "옥외 광고",
               "title": "VIOOH, Adams Outdoor와 제휴해 미국 디지털 빌보드 460면 프로그래매틱 판매",
-              "body": "디지털 옥외광고를 자동 거래(프로그래매틱) 방식으로 판매하는 면이 늘어난다는 소식입니다.",
-              "headline": true,
+              "body": "VIOOH가 Adams Outdoor와 계약해 미국 14개 주(샬럿, 디트로이트, 피츠버그 등) 고속도로·간선도로변 디지털 빌보드 460면 이상을 자동 거래(프로그래매틱) 방식으로 판매합니다. 광고주는 시장별로 따로 계약하지 않고 한 플랫폼에서 여러 지역 광고를 집행할 수 있습니다.",
               "src": [
                 [
-                  "Sixteen:Nine (10/29)",
-                  "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWnJMbmNKbFlHTXZyc0R6QTdBN0FKSU51dlJKTFZjajVWMjQ1cWE1S2xleDVFdUhoQ244d29iLXpSWE9sUXVqZTMxN3F6U0xuT2kzdy1RMTY4aUlKQkhTSHAwS0VfQ0ljT01YMFJCZEFHd1o4NkljMmlkWXBiV3BQU21GdU95UlYyeU5yOXlXcUV1M0VuSVJTQzVsSnZRRnc3akstOTg3V2hZa3NuNUxEV1Q0Q0Q1UQ?oc=5"
+                  "invidis (10/29)",
+                  "https://invidis.com/news/2026/10/programmatic-dooh-viooh-adds-460-us-digital-billboards-through-adams-outdoor-deal/"
                 ],
                 [
                   "ExchangeWire (10/29)",
-                  "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMFMwRmROTlRxRFNEdkVETi1LRjRDR3o4RFZvbVpfeFR6bTFuMng2Vnp3QWJqVTFpenBzZGhLd2FGS1g0X2cybW53WmFNc0ppNktTNHdDb0pmT0tsTHFRSVhBS0UxUkh4TllOUmpId01OY2NxaUFnNlNNTXp5S2U0Q3JSdGM2WXFrallDbHY3bWhxV2VFdGZWNWt2bW9EZDJVNGpfbWdCTVdEeFc4NEZka2lzSjFkME0tYk4weFhOUmV6eXlVdW12VnhHSDBHSHU4N3cwWXFyelgzU1lMd1E?oc=5"
+                  "https://www.exchangewire.com/blog/2026/10/29/viooh-partners-with-adams-outdoor-to-expand-programmatic-access-to-digital-billboards-across-the-us/"
                 ]
               ]
             }
@@ -573,87 +559,87 @@ window.REPORT = {
     ],
     [
       "포커스데일리 (10/28) 대구조달청, 대구·경북 5개사 우수조달물품 신규 지정",
-      "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZaDMtVFhaRlJFNkk2cG91WjZaS3NSMHlQU1hQdDd5Nmk4OUpXS29UVGFuVDdpN25LQ0VqaEFBbE0zMVlBT2sxVVdFR1lzOElkbE80OE5kdXZzelhveFYwREp4TDZFZw?oc=5"
+      "http://www.ifocus.kr/news/articleView.html?idxno=256626"
     ],
     [
       "쿠키뉴스 (10/26) '한국판 타임스퀘어' 꿈꾸는 서울시…대형 전광판 빛공해 대책 필요",
-      "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BNEZTUnBxSjFXN3pzZzZwTGJiNjRid0x4T3FWYUtzMjZWb2ZyRHIwZ2V1VGNLVkVqRlhwSms1NF9lVFJ2Wmh5Q0xTYnhWNS1UalEyRG9KekxJMExHdXdib1NGdw?oc=5"
+      "https://www.kukinews.com/article/view/kuk202610260022"
     ],
     [
       "한국방송뉴스 (10/30) 서울시설공단, 준불연 소재로 지하도상가 광고물 화재 위험 줄인다",
-      "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wZW9qOHFLNlJ2OXZjTnpJa0RoYmlxMHp4RzhDdmJYcUltd2tDcGlGaF9xbXpWbkRldEV0MlIwamdKSklSQUo1U2E0RkR5Uzd4UEVWbHhrLUVfRzl4UWc?oc=5"
+      "https://www.ikbn.news/news/article.html?no=216799"
     ],
     [
       "충청일보 (10/28) 일본서 충북 농식품 전광판 광고",
-      "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GSVMtbGdnOHc0enVhT2U5aGZOcTUydWZKME1vUHBYZVZSMmMwMFBOekNhOUZaUlNBYldZSzZ1TERaQjh4ai1SaTA2cUwyQkNiU2oyaWF4alNORHkza2F4dWx5YkRJVGFMX1o5emtKLUs?oc=5"
+      "https://www.ccdailynews.com/news/articleView.html?idxno=2448622"
     ],
     [
       "뉴스1 (10/28) 도심마다 보이는 3D 미디어파사드",
-      "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5dmtFSWZoTnRNUklxdXFlWlN6dEo1dmJ5QmVOOGdzblVVNGtSeFA3NXNtaHVfUDBnZFJJbzQ2ZkEteFdLbzRlUC1aOA?oc=5"
+      "https://www.news1.kr/photos/8183769"
     ],
     [
       "테크월드 (10/29) 상업용 디스플레이, 호텔·회의실·매장까지 확장",
-      "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yTC1URWxDbHlRTVJuTEx6eUo0aDJZZUx4TllUNTBBUWx6SGJSaVVmNTlkOEk4LVQxVlBZeV9wU1EtbnpjXzFhb0ctM2x6b1NMMWJOa1I1eXR3WHlEQ0MtbzRMTzduRElY?oc=5"
+      "https://www.epnc.co.kr/news/articleView.html?idxno=408965"
     ],
     [
       "LG헬로비전 (10/28) 농진원, 장애인 시설에 컴퓨터·전자칠판 등 기증",
-      "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GZ2Fybll4R1hjRHd5MWh4dHJNYnY0b09kVnVFMFc4X1JIUVphN2EwOHd5STZDSUs5SlJBckZLUkhPUktaeUpaNXAtYTltY3p3dFNGaVp3Zmx0THo0cnAyNVFPdFdHaTBCZWpkNWlQXzhlRjTSAXZBVV95cUxPM3FPdVFOVlp2UUtUUFFQbTUwUXEtX0tJUDZUdnUzZnFjTV9aYVBwc3ZvcFpuMnRLZ29ZSGVkR04yaEIzUzhhTWg1amgtdzNMc3BGSHlFT2Q0cUVsbEhjaXVGelFoQnJTLTVjeVJxaG5qcmxpN3Rn?oc=5"
+      "https://news.lghellovision.net/news/articleView.html?idxno=560141"
     ],
     [
       "경기일보 (10/28) 인천TP, NEXT:ON 2026 미디어아트 전시",
-      "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GZDg0YjZjYmR4SVlYNWNNQXpDeHNucU9qLThSU3JKV1J0X0l4ekhBNjIwQkl0ak1vamYxUHFKc1cyTVVENXQ5dUFlOHdkN1M2Z0VEUC1wbmVvUGs?oc=5"
+      "https://www.kyeonggi.com/article/20261028580339"
     ],
     [
       "동아일보 (10/28) 72만 명 찾은 노들섬 '빛의 미술관'",
-      "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLMXN5Yno3RnBKNmJ1ZE95ckc3ZHRWbXNTT2Nxck9xU3RYMy1hWWhzMEdMNkJMQUx3SWFEV0U1VVctMEVNb3pqWE9jS3Y3QVZjQlBmRWtKV2hCT0RiOXRkYVF1NkFnbk50SUY1NzFWZm10djI2bXfSAWZBVV95cUxPX3VmOEhCbXdkakQ5UDFkUUFlQ00wQVNBU1U4bURQaldsVGFxdVZ5cGZOLUZfOXpPQUtvQnlxcUVJa0ZKaEdyZDVCUUFRdDdyQVQtLTFaenFmUUlWSEtHYks0Q3JLNmc?oc=5"
+      "https://www.donga.com/news/Economy/article/all/20261028/134919680/2"
     ],
     [
       "코리아아트뉴스 (10/28) 고양시, 2026 디지털미디어테크쇼(DMTS) 개최",
-      "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81SUJWMEEyQUlMQVUxa19MVXhsNEM4ZkZobWVIbTE2TVhUVlZ5NWxZRjNyc0JpRWlhZURpdi14eC1JOEh3dWZIWmtTSEdHSlk?oc=5"
+      "https://koreaartnews.com/post/l0dKY4pl"
     ],
     [
       "뉴스N연합 (10/28) 화성시 미디어 페스티벌 개최",
-      "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TWVV6Y0hvZi1IQzFWU3UwYmJ0aG9WV1duci1jTkFmWEZuVzNKcHQ5TXl1eUVSbkdQY19VMWtrWXFFcU9fQWhXbG16b0tVREE?oc=5"
+      "https://www.newsyonhap.com/news/133610"
     ],
     [
       "지이코노미 (10/28) 여수 섬박람회 360도 스크린 생중계",
-      "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10Wm9DLUZZbGNwRDdVZFZUUm1DVHNtQUZkWG5kclMxd0k2bnc1QWtNMVN0X0xhaDZPSDlSNEZta0xOYXhOMW8wQUF5OEh6Y0R2OEJjRW9GSlBLVXQxbG9HM25feWxqamM?oc=5"
+      "https://www.geconomy.co.kr/mobile/article.html?no=324997"
     ],
     [
       "매일일보 (10/28) 티엑스 '파크T', 스크린파크골프 가맹사업 본격화",
-      "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qMmJucU9YSGFIREdHUVpZNVV6eTZaWlVjRXlvb3N1aDBKYUhNT1BtelVGRUpwS1h4eXRFQ21NQlRnc0hHb2c3UzhoVExNY0NnTXpMRU5vdVF2Ukp1T2t2bThXVDA?oc=5"
+      "https://www.m-i.kr/news/articleView.html?idxno=2011508"
     ],
     [
       "Installation International (10/27) Praevar introduces new outdoor display options",
-      "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbTMtNEV5SzRlS1NLd2FqV0hCbGJuY0NHX0ZiSTFSWkZ4YTZNX1lfcUNQUDBRZDZ5UVFqWERQTnNhSUVfMXp3alhKc1ZYSWQyeHdNWUdUcEF0SGVjVjNud25PbWgyRG1aX240UFZmYW1oY2V2YnpRWXJwQ2cxcWQ5STYzU1hEVHJrMjJkNV95UUZQWHp3NEd4UHE0aTk5R2pWbDJMaXEtZ3Vwajl6U1BZRGNiOXI?oc=5"
+      "https://www.installation-international.com/product-news/praevar-expands-podium-series-with-outdoor-display-options"
     ],
     [
       "CE Pro (10/28) Just Video Walls Appoints Michael Braithwaite as CTO",
-      "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0o1dTJDT080SW1UTmR0SFFSNW9rRHAyV1Z5azdtTE1ReFpnanIyaWx1YWdBRkxWekhwZU5nV0ZfUHcyb1BJVlRoN0h1RWEwWTBiMFJObkthcFpWVzBUbFhucWZ4MXQta2JjcE9WS2lYUGpHbTVhMldWV00yalAzQmxZMEttaVA1SFlFa2RDdGRKMU1PdTVfQ0ZDZXY4TldjSTR0X1B3QUI2clBr?oc=5"
+      "https://www.cepro.com/news/just-video-walls-appoints-michael-braithwaite-as-chief-technology-officer/629518/"
     ],
     [
       "Sixteen:Nine (10/28) InfoComm América Latina Reports Double-Digit Growth",
-      "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT08wYkJ2N3ZxSDdOdEdDNTQzX0p4WkR1UVB5ZlRDM2k3ZzJKN1pRb3dWZzhOb2FNV29KXzZuazN2N3pqNDJsa3ZzZkY5X0M2RWlBYzhTakFOVXgzYXVjbnlSbWp6Ykk1TlNNNFBUenJxbDRpN3EzZkc5Q3pwbUljWHB6OGFMZ3lTckpJZzdtMzdINXlQb2szQmlIVWVKMkphMnc?oc=5"
+      "https://invidis.com/news/2026/10/in-second-year-infocomm-america-latina-reports-double-digit-growth/"
     ],
     [
       "Sixteen:Nine (10/29) Forté Equips Atlanta School With LED Broadcast Studio",
-      "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONVFmRFpPc3VXdG4xdl9OaUxJTjNGdURCSXczVi02eTN5MDJTN1UtR2RwMUhCVjJVSHZ0MVQyVTlxLVlEejMtMUZLN3h1X2xCVHFOV2EwMV9NR3ZrUzMwd0t4V2pRaHJxU3NlZVlCSWpPd1VFVE5mMFFLUWZmbHNGMXRwTDZmS3NXdFJqZWN4cDljRlRFUjBYV2VxeXA3YmtfemNOUEpFclQ?oc=5"
+      "https://invidis.com/news/2026/10/with-sna-displays-forte-equips-atlanta-school-with-led-broadcast-studio/"
     ],
     [
       "Technology Org (10/30) LED Display Thermal Management",
-      "https://news.google.com/rss/articles/CBMieEFVX3lxTE82WEhiYzNDZjRkcGtXd1BIcFdEa2lDcnVza0oyRl81Rk83ZjJ6Y3d1U1QzTWVtZzd0ZlNkRTRXN1ZFbGJ6UEVqYUNfV2pVenZSQUdqejM3UV8zNzBxZzgtMGpfV3c1VVpKX3AzZ0thMnRUVVJDdTJKeA?oc=5"
+      "https://www.technology.org/2026/10/30/led-display-thermal-management/"
     ],
     [
       "Education Week (11/1) Choosing the Right Interactive Display for K-12 Classrooms",
-      "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeGFyTzJDdFlBUl9BbTBETUFpYnNfdm1zNXJlbG8zT2hUYUxna29qMmRKRmxneVU4akszOVI0ZUlVYWRSWEEtQm9JZUpoNXdvTktwYmhHM1plYzF3SDdIRFlNTGdtU3hOemU1cFpRTnluMTNxbndUS0xpSy05MVJPclF6bndFS0E2Y3FRd05CWkxQUXhtbnRDa0RkMzdwQ2JZ?oc=5"
+      "https://www.edweek.org/sponsor/viewsonic/choosing-the-right-interactive-display-for-k-12-classrooms"
     ],
     [
       "UC Today (10/29) Meeting Room Market 2026",
-      "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWWxYZ2ItVHVvQ2FIM1Vpb1ZEUVFNOVpGN0tBRmFTXzNTV05SWGhJNU1WUlpRMlVlVVM0aDFZcy0ya3Fob1dnSDZTTWUyN1NNcHZIS0pPTGpCUlk5aXNHTXluZ21NaHFHcElYb1pNZkpNSE5NSjczel80cnQwVTBtaA?oc=5"
+      "https://uctoday.com/meeting-room-market-2026-did-vendors-sell-a-renaissance"
     ],
     [
       "LEDinside (10/28) UIUC GaN Blue Micro-LED 2.75 GHz",
-      "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVLUhhS0x2THNLWE4yN1FjMEd3MDI4anppd2p4N0JXY0J0VlB0N1hodVZ0QnhhR3RGY2R2cnRqazlxRTQxSXR2SXlrNGluVXpkMVBQbWVaVDBvWUpIbzlNT01B?oc=5"
+      "https://www.ledinside.com/news/2026/10/2026_10_28_05"
     ],
     [
       "LEDinside (10/27) AUO x PEUGEOT 투명 마이크로 LED 콕핏",

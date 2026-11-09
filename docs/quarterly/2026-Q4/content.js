@@ -82,7 +82,7 @@ window.REPORT = {
                 ],
                 [
                   "Gogi Tech (9/16)",
-                  "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeDBQV0lhWTY3MzNYTXFRY0luNHVxSnNxdkc0azZ6MUNya2o0WndvQk1ZTldKNnp1SXJsM0xnN0NRaVBtb1JIRXY2N3hZMUtWZDlWbU15elQ2NGNjWG1RcjY1MTQyRkJhX19sNTFoVGFRNTlTN2hBampEY09TeGpGdEhPSmRWMUFwUUVnSDY5TEpsWDR0bHFOUHB4dURJaWd2bEdpY21pZWNjV2E2cEFoei1uV1BlbXBlaTlPYnhkdUVqanFsY3pYZ0xvVUFvd9IB0wFBVV95cUxQX0tZbEQzdW5WNklHNDNKV1BrYnpZeWZha0FudVpiUVJrYVowQXZpSGFUbXNnRHN3VTFRTktvYnlCVDVhRGlzTFZJZENTSk5VdHBzMHZPd091VlcwZ2EzRGpramxIODFrWnJZY05kQXlpeWtnUEhsb2NUSjVDblJTejNhS1dpbWx3VmxkR09ObUJoMHhwREVFOGFnVkhuX3c0NURIbExPYnlpUVp4NTJmb3gxY2kwb216TmNySkgzV3VYcEF4MUo5YUNOZXpIZnNmbzQ0?oc=5"
+                  "https://www.gogi.in/benq-board-cp5505-launched-at-infocomm-india-2026-with-ai-meetings-135-inch-dvled-and-new-screenbar-lighting.html"
                 ]
               ]
             },
@@ -255,7 +255,7 @@ window.REPORT = {
                 ],
                 [
                   "Sixteen:Nine (10/27)",
-                  "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTGczZkNHYTFSQWYtYTNQSExzUnZwLTBFdEJ4M0hIUzM0dWtjWG1sdE5XelNpbUxVOXJVSzdDc19vSDBXTHNUYjA0SDR2dUFacHM2MVhnWEg3TGFxUEVHSzJaeHJNcWlHSmE0SktYVXk0dlhYcHpBNjQ2alNjYkx6RTJkMVlXS25LQmV3S1JESHdyZ2w4dWtVWkRB?oc=5"
+                  "https://invidis.com/news/2026/10/omdia-led-display-revenue-to-grow-11-6-annually-through-2030/"
                 ]
               ]
             }

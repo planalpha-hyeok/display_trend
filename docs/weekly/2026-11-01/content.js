@@ -72,7 +72,7 @@ window.REPORT = {
             {
               "label": "옥외 매체",
               "title": "KT나스미디어, 강남역에 초고해상도 옥외광고 매체 '더스퀘어 강남' 론칭",
-              "body": "강남역 일대에 대형 LED 옥외광고 매체를 구축해 출시했습니다. 화면 크기·픽셀피치 등 세부 사양은 확인하지 못했습니다.",
+              "body": "KT나스미디어가 강남역 지하도상가와 주요 동선에 대형 LED 디스플레이, 기둥형 광고판, 디지털 캐노피를 묶은 매체 '더스퀘어 강남'을 선보였습니다. 주요 디지털 광고판에는 픽셀피치 0.9mm LED를 썼고, 강남역 10·11번 출구에는 3면 LED '트리플 캐노피'를 설치했습니다.",
               "src": [
                 [
                   "지디넷코리아 (10/30)",
@@ -121,45 +121,45 @@ window.REPORT = {
               "src": [
                 [
                   "매일경제 (10/30)",
-                  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YUWlsaE1zaEQzSkdPQ0gtakRvMU9ubEp0blVwLUJEUUZnejNoNDZRU1BKVWJOY3Q5Mm1BNXd3d0t6aGVDVzJYNDlraXAzXzV0blE?oc=5"
+                  "https://stock.mk.co.kr/news/view/1185425"
                 ],
                 [
                   "디딤코리아 (10/30)",
-                  "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBOXVhSWRJYVlCZldJM05IcjRScFRkaS12NmxxSzZudUprdXJ5VzhZLU1naEpIQzZuSGc0d20tMzlZUWozZzZXak9TTWREMUU?oc=5"
+                  "https://www.didimkorea.net/news/553971"
                 ]
               ]
             },
             {
               "label": "시장 전망",
               "title": "Omdia: LED 디스플레이 매출, 2030년까지 연 11.6% 성장",
-              "body": "시장조사기관 Omdia의 전망을 보도한 기사입니다. 세부 수치는 원문에서 확인하지 못했습니다.",
+              "body": "Omdia는 세계 LED 디스플레이 매출이 2026~2030년 연평균 11.6% 늘 것으로 봤습니다(전망). 2026년 2분기 출하량은 전년보다 3.3% 늘었지만 매출은 0.2% 줄었습니다. 2025년 말부터 LED 칩·드라이버 IC·PCB·전원부 가격이 잇달아 올라, 일부 브랜드는 누적 3~30% 가격을 인상했습니다.",
               "est": true,
               "src": [
                 [
-                  "Sixteen:Nine (10/27)",
-                  "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTGczZkNHYTFSQWYtYTNQSExzUnZwLTBFdEJ4M0hIUzM0dWtjWG1sdE5XelNpbUxVOXJVSzdDc19vSDBXTHNUYjA0SDR2dUFacHM2MVhnWEg3TGFxUEVHSzJaeHJNcWlHSmE0SktYVXk0dlhYcHpBNjQ2alNjYkx6RTJkMVlXS25LQmV3S1JESHdyZ2w4dWtVWkRB?oc=5"
+                  "invidis (10/27)",
+                  "https://invidis.com/news/2026/10/omdia-led-display-revenue-to-grow-11-6-annually-through-2030/"
                 ]
               ]
             },
             {
               "label": "Novastar",
               "title": "SIA Interactive, 사이니지 소프트웨어 'Dex Suite'를 Novastar에 도입",
-              "body": "Novastar 기반 디스플레이에서 Dex Suite를 운영할 수 있게 된다는 소식입니다. 호환 범위는 확인하지 못했습니다.",
+              "body": "사이니지 소프트웨어 Dex Suite가 Novastar Taurus 멀티미디어 컨트롤러(TB1, TB1-4G, TB20 Plus, TB30, TB40, TB50, TB60)의 표준 펌웨어에서 바로 실행됩니다. 별도 미디어 플레이어 없이 콘텐츠 관리, 원격 재부팅, 화면 캡처를 할 수 있습니다. LED 밝기 원격 조절 등은 다음 단계로 개발 중입니다.",
               "src": [
                 [
-                  "Sixteen:Nine (10/30)",
-                  "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOTNTU3c2WXU1UThaemNqSmRmYVZidVRuaE5WRUlid01aMkllTTU4ZWxiSzNITGRUOVFFbHNaSG1yLU5NU1RUYzB2TW1TMzBaSjRzSGpEQ3JDMnBWZDY4RFlhbDB2M1FSOTQ1V25IeHFYLTljUVF5ZzNDenAzNVVEcjJsTGR5eEVGRWl4UGFYSXlhZUl6eXd4YllONWdVVXBHa2ttYlRR?oc=5"
+                  "invidis (10/30)",
+                  "https://invidis.com/news/2026/10/digital-signage-software-sia-interactive-brings-dex-suite-to-novastar/"
                 ]
               ]
             },
             {
               "label": "Colorlight",
               "title": "Colorlight Cloud Tech, 약 1억 위안 규모 자사주 매입",
-              "body": "1,576,800주 매입을 발표했습니다. 같은 날 1~9월 실적도 나왔지만 수치는 확인하지 못했습니다.",
+              "body": "Colorlight Cloud Tech(선전증권거래소 301391)가 최대 1억 위안, 1,576,800주(주당 상한 63.42위안)의 자사주 매입 계획을 공시했습니다. 매입 주식은 주식 인센티브·직원 지주 제도에 쓰이며, 기간은 이사회 승인 후 12개월입니다.",
               "src": [
                 [
                   "MarketScreener (10/28)",
-                  "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOekRpSnFGbzBrSUtMcldDZVUtdUVBTjkzR05NSnRTM2lhamNkR1gyZFdTaGVHQjh0TE1LU25seGNJM2RYUFlfcUhaTTN1UXdZVGZLNUlmZEdYX0l2T0J0d040b1hvN1pfMnNWRHE4X3ZFWXdnbmY2RzlvYzU2dUlvM2c2T183dTdPS3EyM0o5TE84Sk12MlUzVl9BdWhnVmxaRUJwWG5ZUWNBMGxUT1FoRkhHTzM0M3cwRUp6VjJlSkJGdWRLcHk1YVFZb21saHh3WUdTR3lZRURUNWc3T01LTQ?oc=5"
+                  "https://www.marketscreener.com/news/colorlight-cloud-tech-ltd-announces-an-equity-buyback-for-1-576-800-shares-for-cny-100-million-ce785fdadd88f72d"
                 ]
               ]
             },
@@ -171,7 +171,7 @@ window.REPORT = {
               "src": [
                 [
                   "Yahoo (10/30)",
-                  "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLU5QNmxBTkpFY0ZGV1RaaVlqNlRnTl95VXczNjdOMmcwN2tCemJCeXlGMlotczZoWnpqQkRJNzhlNlh1MERDOGdYd1Y3RDZieF9UZldOOGJKYWIzZ0NXbXp0R25LdENMcGV0dnhtQUxqT1JHcy1COGN2Nm9vWUhkTHpB?oc=5"
+                  "https://malaysia.news.yahoo.com/kluang-council-shuts-down-led-074936957.html"
                 ]
               ]
             }
@@ -215,7 +215,7 @@ window.REPORT = {
               "src": [
                 [
                   "Digital AV Magazine (10/27)",
-                  "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb05DZHlBVG5jdjdJOEtpQWNGODhwX0FEdEM3OW5SOXc2YnVoSjU2SFJKajVQOXZmM1d0TFpUeDdxUlAtTUllQ3dCaUJvcTRza0kxajZlTklZVmNtNkxqTDdMaUxiTlJQU0ZZLXRxTEdUbEl6UmRGTW03THRrTE1xTDFFRGc2LW5NMWs4VnJrUU5Ramw5TGlvVERPbGN0ZFc2UkFNYjZlVkFYa0VwV2lKVXB0RFN2UQ?oc=5"
+                  "https://www.digitalavmagazine.com/en/2026/10/27/epson-proyeccion-colaborativa-aprendizaje-inmersivo-simo-educacion/"
                 ]
               ]
             }
@@ -243,11 +243,11 @@ window.REPORT = {
             {
               "label": "전자칠판",
               "title": "LG전자, 폴란드 학교에 전자칠판 6,000대 공급 계획",
-              "body": "B2B 확대 전략의 하나로 보도됐습니다. 공급 시기와 계약 형태는 확인하지 못했습니다.",
+              "body": "LG전자가 EU 자금으로 진행되는 폴란드 교육 디지털화 사업에서 올해 도입될 75인치 전자칠판 1만4,000대 가운데 5,000~6,000대를 공급할 계획입니다. 원격 관리·보안 소프트웨어를 묶은 B2B 솔루션 전략의 하나로 소개됐습니다.",
               "src": [
                 [
                   "한국신용신문 (10/30)",
-                  "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VZGhCZGZ2VFI5c3Vfby01U01reDh5TE1IYnhiOGZnd1NLdFhqRU9WNGNIYmI4ajhDbTBZTlZRZ1FYc1J6SjgtMkF0X29KTDRLTjUxcW9JcVdrWHRDSVBaSG9nRlFVZWYtUTRZ?oc=5"
+                  "https://www.creditnews.kr/news/articleView.html?idxno=32184"
                 ]
               ]
             },
@@ -258,7 +258,7 @@ window.REPORT = {
               "src": [
                 [
                   "Reuters (10/27)",
-                  "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcThaVXpfV0FuUW1xWm9FNjNxcjFrUE5iWjB5UVNaSHRfNjdkX0lVZkN2eHpJODlZaGphX2FORlY3YnJ6aWlNVDRnTE4xX1c0NkxFdlQ1dGxIVnE4Y1BncFBOYlBnalVsemdmU0UtYUxTNzZlTi1rdHNVLVcyZk9xNDJ1NmFKZU5ldEo5TzdCNWdOOEQ3eGhCUkFSYmJ2SWt2dFpNaXpUd1RlcXdGeUlISXJqNTdZdw?oc=5"
+                  "https://www.reuters.com/business/logitech-beats-profit-forecast-sales-gaming-conferencing-products-rise-2026-10-27/"
                 ],
                 [
                   "The Star·Reuters (10/28)",
@@ -306,7 +306,7 @@ window.REPORT = {
               "src": [
                 [
                   "InPark Magazine (10/28)",
-                  "https://news.google.com/rss/articles/CBMidEFVX3lxTE10Z0tEd1oyRGpQNG1URTZkUnBPcC16WlhoWXBJRS15UjFoRHNjcGd5Q19WTTN1UEd6elhwVGdKTGlqbFNYMU9QVEVFdmMwVEVqWHo1bmVFMm9wbTRpbUNBWTk5MUs5VE1yQ0JoNEF5Z1RNRnB50gF6QVVfeXFMT1FybTl0X09lbGpVTElPS0pnUmMyOUtFWXgwWWd0QTdFdTJXdVkxUWJ3bGx6YkhDcHJYZzFEOEtlb2FEYUIxWHVzNC1rR1pLUkZSM0tYWk8wdjVMdHpCM2EySndGY1FZaU43bm85aTJYQUdCbENoSTRFc2c?oc=5"
+                  "https://www.inparkmagazine.com/pixera-signal-space-czech-republic/"
                 ],
                 [
                   "뉴스1 (10/28)",

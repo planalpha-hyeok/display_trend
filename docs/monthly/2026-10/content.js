@@ -113,7 +113,7 @@ window.REPORT = {
                 ],
                 [
                   "Reuters (10/27)",
-                  "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcThaVXpfV0FuUW1xWm9FNjNxcjFrUE5iWjB5UVNaSHRfNjdkX0lVZkN2eHpJODlZaGphX2FORlY3YnJ6aWlNVDRnTE4xX1c0NkxFdlQ1dGxIVnE4Y1BncFBOYlBnalVsemdmU0UtYUxTNzZlTi1rdHNVLVcyZk9xNDJ1NmFKZU5ldEo5TzdCNWdOOEQ3eGhCUkFSYmJ2SWt2dFpNaXpUd1RlcXdGeUlISXJqNTdZdw?oc=5"
+                  "https://www.reuters.com/business/logitech-beats-profit-forecast-sales-gaming-conferencing-products-rise-2026-10-27/"
                 ],
                 [
                   "Gulf News",
@@ -279,16 +279,15 @@ window.REPORT = {
             {
               "label": "공공 전광판",
               "title": "버스승강장·공공 정보 전광판 도입 이어져",
-              "body": "울주군은 버스승강장 외부 LED 전광판에 '승객 대기 중'을 띄우는 안심승차벨을, 전력거래소와 나주시는 혁신도시 첫 공공디지털 전광판을 운영합니다.",
-              "headline": true,
+              "body": "울주군은 버스승강장 외부 LED 전광판에 '승객 대기 중'을 띄우는 안심승차벨을, 전력거래소와 나주시는 혁신도시 공공디지털 전광판을 운영합니다. 나주 전광판은 조달청 혁신제품 시범사용 사업으로 설치된 에너지 절감형 LED 전광판으로, 재난·기상·생활 정보를 내보냅니다.",
               "src": [
                 [
                   "매일경제 (10/30)",
-                  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YUWlsaE1zaEQzSkdPQ0gtakRvMU9ubEp0blVwLUJEUUZnejNoNDZRU1BKVWJOY3Q5Mm1BNXd3d0t6aGVDVzJYNDlraXAzXzV0blE?oc=5"
+                  "https://stock.mk.co.kr/news/view/1185425"
                 ],
                 [
                   "디딤코리아 (10/30)",
-                  "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBOXVhSWRJYVlCZldJM05IcjRScFRkaS12NmxxSzZudUprdXJ5VzhZLU1naEpIQzZuSGc0d20tMzlZUWozZzZXak9TTWREMUU?oc=5"
+                  "https://www.didimkorea.net/news/553971"
                 ]
               ]
             },
@@ -327,13 +326,12 @@ window.REPORT = {
             {
               "label": "시장 전망",
               "title": "Omdia: LED 디스플레이 매출, 2030년까지 연 11.6% 성장",
-              "body": "시장조사기관 Omdia의 전망을 다룬 기사입니다. 세부 수치는 원문에서 확인하지 못했습니다.",
+              "body": "Omdia는 세계 LED 디스플레이 매출이 2026~2030년 연평균 11.6% 늘 것으로 봤습니다(전망). 2026년 2분기 출하량은 전년보다 3.3% 늘었지만 매출은 0.2% 줄었습니다. 2025년 말부터 LED 칩·드라이버 IC·PCB·전원부 가격이 잇달아 올라, 일부 브랜드는 누적 3~30% 가격을 인상했습니다.",
               "est": true,
-              "headline": true,
               "src": [
                 [
-                  "Sixteen:Nine (10/27)",
-                  "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTGczZkNHYTFSQWYtYTNQSExzUnZwLTBFdEJ4M0hIUzM0dWtjWG1sdE5XelNpbUxVOXJVSzdDc19vSDBXTHNUYjA0SDR2dUFacHM2MVhnWEg3TGFxUEVHSzJaeHJNcWlHSmE0SktYVXk0dlhYcHpBNjQ2alNjYkx6RTJkMVlXS25LQmV3S1JESHdyZ2w4dWtVWkRB?oc=5"
+                  "invidis (10/27)",
+                  "https://invidis.com/news/2026/10/omdia-led-display-revenue-to-grow-11-6-annually-through-2030/"
                 ]
               ]
             },
@@ -352,28 +350,26 @@ window.REPORT = {
             {
               "label": "컨트롤룸",
               "title": "관제실 LED 사례: 삼성 '더 월', Telefónica 모니터링룸",
-              "body": "삼성전자는 스마트시티·레이싱 서킷 컨트롤룸 사례를, Telefónica는 23㎡ LED 월을 갖춘 모니터링 허브를 소개했습니다.",
-              "headline": true,
+              "body": "삼성전자는 스마트시티·레이싱 서킷 컨트롤룸 사례를 소개했습니다. Telefónica는 마드리드 운영센터 방송 모니터링룸에 Alfalite P1.2 COB LED 월(11.4×2m, 약 23㎡)을 설치해 여러 방송 피드를 동시에 띄웁니다.",
               "src": [
                 [
                   "삼성전자 뉴스룸 (10/15)",
                   "https://news.samsung.com/kr/%ec%8a%a4%eb%a7%88%ed%8a%b8-%ec%8b%9c%ed%8b%b0%eb%b6%80%ed%84%b0-%eb%a0%88%ec%9d%b4%ec%8b%b1-%ec%84%9c%ed%82%b7%ea%b9%8c%ec%a7%80-%ec%bb%a8%ed%8a%b8%eb%a1%a4%eb%a3%b8%ec%9d%98-%ec%a4%91%ec%8b%ac"
                 ],
                 [
-                  "Sixteen:Nine (10/2)",
-                  "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYnktWlJDV2RMTU56SmkzSEJCMGZJVlE2dkZpQkV4VW5rc0pNREUtdGZiX3R6Wk50OU5vQmpReDZtek9KWFVrZ2g1VTNISU1rOUExOGJNeHg3MFBBaURxNmRibWlGNENfOVpDdzRCMFFxYWM5WTNmV0hMcUJ5WjEtTjV0akhxOHhqc1ByWkFFdlh2UG9ZaWlhQlowc21ZV2lmUG91LU5CMWVvNlNPMTl3QUNVMzRNQXBtSjRDY3Fldw?oc=5"
+                  "invidis (10/2)",
+                  "https://invidis.com/news/2026/10/control-rooms-telefonica-adds-23-square-meter-alfalite-led-wall-to-madrid-monitoring-hub/"
                 ]
               ]
             },
             {
               "label": "Colorlight",
-              "title": "Colorlight, 1~9월 실적 발표·자사주 매입",
-              "body": "약 1억 위안 규모, 1,576,800주 자사주 매입을 발표했습니다. 실적 수치는 확인하지 못했습니다.",
-              "headline": true,
+              "title": "Colorlight, 약 1억 위안 규모 자사주 매입",
+              "body": "Colorlight Cloud Tech가 최대 1억 위안, 1,576,800주(주당 상한 63.42위안)의 자사주 매입 계획을 공시했습니다. 매입 주식은 주식 인센티브·직원 지주 제도에 쓰입니다.",
               "src": [
                 [
                   "MarketScreener (10/28)",
-                  "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOekRpSnFGbzBrSUtMcldDZVUtdUVBTjkzR05NSnRTM2lhamNkR1gyZFdTaGVHQjh0TE1LU25seGNJM2RYUFlfcUhaTTN1UXdZVGZLNUlmZEdYX0l2T0J0d040b1hvN1pfMnNWRHE4X3ZFWXdnbmY2RzlvYzU2dUlvM2c2T183dTdPS3EyM0o5TE84Sk12MlUzVl9BdWhnVmxaRUJwWG5ZUWNBMGxUT1FoRkhHTzM0M3cwRUp6VjJlSkJGdWRLcHk1YVFZb21saHh3WUdTR3lZRURUNWc3T01LTQ?oc=5"
+                  "https://www.marketscreener.com/news/colorlight-cloud-tech-ltd-announces-an-equity-buyback-for-1-576-800-shares-for-cny-100-million-ce785fdadd88f72d"
                 ]
               ]
             }
@@ -409,12 +405,12 @@ window.REPORT = {
             ],
             [
               "Extron",
-              "NAV Pro AV over IP용 USB-C 스위칭 인코더·스케일링 디코더",
-              "신제품 (제목 기준)",
+              "NAV Pro AV over IP용 USB-C 스위칭 인코더(NAV E 522)·스케일링 디코더(NAV SD 521), 4K/60 4:4:4",
+              "신제품",
               "10/19~21",
               {
                 "text": "Inavate (10/20)",
-                "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVUd4NHNjc3o2WnJiT0l2R28zTkstVVNCM2pYWG15ZXgwRE0tb3BUa0FsVGFNaE5uaUZkdS1Tc0xJc0pmaUNnV0IycXhHbENzN3VrWnV4TnpoTjY5NW1IeFVWVWRheEZSM3JNWHdNeE41dEJGSnpZazZqdklNZmVES0oyLU9iWlh2Q0c5bnpIV3JFWElKek5zV18zRDhob0wwNDhNVkt5aklyRUtZWmJtQ2tGOA?oc=5"
+                "url": "https://www.inavateonthenet.net/products/article/extron-debuts-nav-e-522-switching-encoder-and-nav-sd-521-decoder"
               }
             ],
             [
@@ -424,7 +420,7 @@ window.REPORT = {
               "10/22",
               {
                 "text": "뉴시스 (10/22)",
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEdVRrbGphcUJxMllEQlVwWDJUSnhab2FONnVYUTRxRlNsRGNyYmRLTGI1SDNxWi1GZXJHR2trRVlldnAzeFdkREdDRUpIVWt4bS1DaXZjTmJHQWpCWERCYtIBeEFVX3lxTFBUTFA4bU9UV1U3WncyZHhDSW1SNG9lU3B1WnNKNFQ4NEtkRlRERVRKTzNuZlBxLV9EdW1NV1FZZTJfa2FzQlRTbkRoSktQaHU3ZFpqbS1fdGh3ZXk5VkFFbEhpa1lQQ1lleWQ1TXhKMS1xbFB2dVZmUQ?oc=5"
+                "url": "https://www.newsis.com/view/NISX20261022_0003836085"
               }
             ],
             [
@@ -434,7 +430,7 @@ window.REPORT = {
               "10/19",
               {
                 "text": "뉴스1 (10/19)",
-                "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMeXoxX2x0UE1maDBaWWY3b0xEWlM1NVJ2NGluU194X2taX3ZqS0RvQjhkLUdMQXVqb0NuR2xBdFh1bDZSVU45aFZzcG95a0VBb1IwMTNkNHpzWW1ZblFvR015MzE?oc=5"
+                "url": "https://www.news1.kr/industry/general-industry/6323989"
               }
             ],
             [
@@ -444,7 +440,7 @@ window.REPORT = {
               "10/27",
               {
                 "text": "Installation International (10/27)",
-                "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbTMtNEV5SzRlS1NLd2FqV0hCbGJuY0NHX0ZiSTFSWkZ4YTZNX1lfcUNQUDBRZDZ5UVFqWERQTnNhSUVfMXp3alhKc1ZYSWQyeHdNWUdUcEF0SGVjVjNud25PbWgyRG1aX240UFZmYW1oY2V2YnpRWXJwQ2cxcWQ5STYzU1hEVHJrMjJkNV95UUZQWHp3NEd4UHE0aTk5R2pWbDJMaXEtZ3Vwajl6U1BZRGNiOXI?oc=5"
+                "url": "https://www.installation-international.com/product-news/praevar-expands-podium-series-with-outdoor-display-options"
               }
             ],
             [
@@ -454,11 +450,11 @@ window.REPORT = {
               "10/28",
               {
                 "text": "지디넷코리아 (10/28)",
-                "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1cW52Tlk3azRiZUMxUjI3YW9GOE5hZkZCNHAzelpucVRib3BYRXZ2cEd1b3pJd2ZnNWJYTmlldFlla0xYNVVEdVFGWkpPRlFvX1pPQ2JR?oc=5"
+                "url": "https://zdnet.co.kr/view/?no=20261028183723"
               }
             ]
           ],
-          "note": "단종 소식은 이달 확인된 것이 없습니다. '제목 기준'은 기사 본문을 열지 못해 제목·매체·날짜로만 확인한 항목입니다."
+          "note": "이달 단종 소식은 없었습니다."
         }
       ]
     },
