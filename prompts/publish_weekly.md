@@ -17,3 +17,4 @@
   7. FIELD NOTE — `notes`(현장 실무 참고), `terms`(용어 풀이 4~6개), `closing`
 - 기사 카드 하나: label / title / body 2~4문장 / why(실무 시사점, 있을 때) / src.
 - 분량: 섹션당 기사 1~5건, 전체 15~30건.
+- 플로우 알림: 실행일이 1일이면 건너뛴다(월간 발행이 함께 보냄). `publish_common.md` 5단계.

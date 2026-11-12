@@ -14,3 +14,4 @@
   4. GLOBAL MARKET — `feature` (grid)
   5. NEW ARRIVALS — `table` 브랜드 / 제품 / 구분 / 날짜 / 출처(링크 셀 `{text, url}`)
   6. NEXT MONTH — `table` 다음 달 일정 + `closing`
+- 플로우 알림: 1·4·7·10월이면 건너뛴다(분기 발행이 함께 보냄). `publish_common.md` 5단계.
